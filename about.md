@@ -45,5 +45,9 @@ We are very grateful to all collaborators and friends that joined the aside@ufba
 + Isaac, 2006
 + Rodrigo Rocha, 2007
 + Daniela Feitosa, 2009
++ Bruno Silva, 2011
++ Debora Nascimento, 2011
++ Leandro Soriano, 2012
++ Joenio Marques, 2015
 
 (to be updated)
