@@ -17,7 +17,7 @@ Our research group gathers people that work (and enjoy themselves while working)
 ## Our Beliefs
 
 + Software exists for the benefit of people.
-+ Software requires effort and intelligence from people to create software that is useful to people. 
++ Software design requires effort and intelligence from people to create software that is useful to people. 
 + Useful software is constantly evolving. 
 + Software has essential and accidental issues related to software practices and software people.
-+ Education and collaboration must be pervasive to software ecosystems.
++ Education, Openness and Collaboration must be pervasive to software ecosystems.

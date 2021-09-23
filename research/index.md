@@ -8,7 +8,12 @@ layout: default
 
 ## Research
 
-* Publications
-* Projects
+### Open Source Ecosystems
+
+### Software Health and Sustainability
+
+### Software Engineering Education
+
+### Open Science
 
 [back](../)
