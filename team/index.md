@@ -8,3 +8,5 @@ layout: default
 
 # Team
 
++ [Prof. Christina von Flach](./christinaflach.md)
+

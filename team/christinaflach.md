@@ -1,11 +1,16 @@
 ---
-layout: default
+title: Christina von Flach
+position: Professor
+nickname: Chris
+handle: christinaflach
+email: christina.flach@gmail.com
+github:
+scholar:
+image: /assets/images/team/christinaflach.png
+cv:
+alum: false
 ---
 
-|[home](./index.md)|[teaching](./teaching)|[research](./research)|[team](./team)|[about](./about.md)|
-
-* * *
-
-## Christina von Flach
-
 Christina is ...
+
+[Federal University of Bahia]: http://www.ufba.br/
