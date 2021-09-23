@@ -8,12 +8,15 @@ layout: default
 
 ## Research
 
-### Open Source Ecosystems
+### Software Ecosystems
+#### Health and Sustainability
 
-### Software Health and Sustainability
-
-### Software Engineering Education
+### Software Engineering Education (SEE)
+#### SEE with Open Source Projects
 
 ### Open Science
+#### Open Science and Open Source Software
+#### Research Software Sustainability
 
-[back](../)
+
+<!-- [back](../) -->
