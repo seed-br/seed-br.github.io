@@ -1,12 +1,7 @@
 ---
-layout: default
+layout: about
 ---
 
-|[home](./index.md)|[team](./team)|[research](./research)|[documentation](./docs)|about|
-
-* * *
-
-# About 
 
 ## What's in a name?
  
@@ -51,3 +46,5 @@ We are very grateful to all collaborators and friends that joined the aside@ufba
 + Joenio Marques, 2015
 
 (to be updated)
+
+
