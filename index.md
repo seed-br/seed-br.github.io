@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: educenter
 ---
 
 |home|[team](./team)|[research](./research)|[documentation](./docs)|[about](./about.md)|
