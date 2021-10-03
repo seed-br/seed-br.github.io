@@ -2,7 +2,6 @@
 layout: about
 ---
 
-
 ## What's in a name?
  
 SEED stands for "when Software Ecosystems and Software Engineering EDucation collide". 
@@ -15,7 +14,7 @@ We've embraced them.
 SEED is _semente_ in Portuguese.
 The single still logo conveys the essence of our group.
 
-![SEED](./images/seed.png)
+![SEED](./images/logo.png)
 
 ## Where did we come from?
 
@@ -46,5 +45,4 @@ We are very grateful to all collaborators and friends that joined the aside@ufba
 + Joenio Marques, 2015
 
 (to be updated)
-
 
