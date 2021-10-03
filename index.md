@@ -2,13 +2,20 @@
 layout: educenter
 ---
 
+
+<!-- about -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <img class="img-fluid w-100 mb-4" src="images/about/about-page.jpg" alt="about image">
+
 ## Our Group
  
 SEED stands for "when Software Ecosystems and Software Engineering EDucation collide". 
 And the mediator is Open Source Software.
 
 Our research group gathers people that work (and enjoy themselves while working) with software and people.
-
 
 ## Our Beliefs
 
@@ -18,4 +25,8 @@ Our research group gathers people that work (and enjoy themselves while working)
 + Software has essential and accidental issues related to software practices and software people.
 + Education, Openness and Collaboration must be pervasive to software ecosystems.
 
-
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /about -->
