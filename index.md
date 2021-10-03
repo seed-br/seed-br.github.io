@@ -1,14 +1,6 @@
 ---
-layout: educenter
+layout: about
 ---
-
-
-<!-- about -->
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <img class="img-fluid w-100 mb-4" src="images/about/about-page.jpg" alt="about image">
 
 ## Our Group
  
@@ -25,8 +17,3 @@ Our research group gathers people that work (and enjoy themselves while working)
 + Software has essential and accidental issues related to software practices and software people.
 + Education, Openness and Collaboration must be pervasive to software ecosystems.
 
-      </div>
-    </div>
-  </div>
-</section>
-<!-- /about -->
