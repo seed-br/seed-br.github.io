@@ -4,9 +4,12 @@ layout: about
 
 ### Our Group
  
-SEED stands for "when Software Ecosystems and Software Engineering EDucation collide". 
+**SEED** stands for "when Software Ecosystems and 
+Software Engineering EDucation collide". 
 And the mediator is Open Source Software.
-Our research group gathers people that work (and enjoy themselves while working) with software and people.
+Our research group gathers people that work 
+(and enjoy themselves while working) 
+with software and people.
 
 ### Our Beliefs
 
