@@ -2,8 +2,6 @@
 layout: educenter
 ---
 
-|home|[team](./team)|[research](./research)|[documentation](./docs)|[about](./about.md)|
-
 ## Our Group
  
 SEED stands for "when Software Ecosystems and Software Engineering EDucation collide". 
@@ -19,3 +17,5 @@ Our research group gathers people that work (and enjoy themselves while working)
 + Useful software is constantly evolving. 
 + Software has essential and accidental issues related to software practices and software people.
 + Education, Openness and Collaboration must be pervasive to software ecosystems.
+
+
