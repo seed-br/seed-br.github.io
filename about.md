@@ -6,8 +6,8 @@ layout: about
  
 SEED stands for "when Software Ecosystems and Software Engineering EDucation collide". 
 The mediator is Open Source Software. 
-We've started this journey with some old & shared "itches", new challenges and new friends. 
-We've embraced them.
+We've started this journey with some old & shared "itches", 
+new challenges and new friends. We've embraced them.
 
 ## What's in a picture?
 
@@ -32,12 +32,16 @@ We are very grateful to all collaborators and friends that joined the aside@ufba
 + Krishnamurti, 2003
 + Vinicius Pinheiro, 2004
 + Alice, 2005
++ Luciano Itaparica, 2005
 + Cassio Freitas, 2005
 + Keilla Menezes, 2005
 + Karina, 2006
 + Danton, 2006
++ André 
 + Isaac, 2006
 + Rodrigo Rocha, 2007
++ Tom
++ Helton
 + Daniela Feitosa, 2009
 + Bruno Silva, 2011
 + Debora Nascimento, 2011
