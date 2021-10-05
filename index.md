@@ -2,11 +2,13 @@
 layout: index
 ---
 
+## SEED
 
 <p>
-**SEED** stands for "when Software Ecosystems and 
+SEED stands for "when Software Ecosystems and 
 Software Engineering EDucation collide". 
 The mediator is Open Source Software. 
+</p>
 
 Our research group gathers people that work 
 (and enjoy themselves while working) 
@@ -15,14 +17,13 @@ with software and people.
 We've started this journey in 2003 with some old & shared "itches"
 and people that work (and enjoy themselves while working) 
 with software and people.
-</p>
 
 
 ## Our Beliefs
 
-|1|Software exists for the benefit of people.|
+##### Software exists for the benefit of people. (1)
 
-|2|Software design requires effort and intelligence from people to create software that is useful to people.|
+##### (2) Software design requires effort and intelligence from people to create software that is useful to people.
 
 |3|Useful software is constantly evolving.|
 
