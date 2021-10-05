@@ -1,5 +1,9 @@
 ---
-layout: about
+layout: contact
 ---
 
 ## Contact
+
++ e-mail
++ Twitter
+
