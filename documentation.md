@@ -2,6 +2,10 @@
 layout: documentation
 ---
 
-## Documentation
+## Resources
+
++ GitHub
++ Zenodo
++ RI-UFBA
 
 
