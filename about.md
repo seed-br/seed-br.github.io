@@ -4,7 +4,8 @@ layout: about
 
 ## What's in a name?
 
-__SEED__ stands for ```when _S_oftware _E_cosystems and Software Engineering _ED_ucation collide.```
+__SEED__ stands for 
+"when Software Ecosystems and Software Engineering EDucation collide."
 The mediator is Open Source Software. 
 
 ## What's in a picture?
