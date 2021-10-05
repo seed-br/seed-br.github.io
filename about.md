@@ -2,32 +2,35 @@
 layout: about
 ---
 
-### What's in a name?
- 
+## What's in a name?
+
+<p>
 **SEED** stands for "when Software Ecosystems and Software Engineering EDucation collide". 
 The mediator is Open Source Software. 
-We've started this journey with some old & shared "itches", 
-new challenges and new friends. We've embraced them.
+We've started this journey with some old & shared "itches" and new challenges. 
+We've embraced them.
+</p>
 
-### What's in a picture?
+## What's in a picture?
 
 SEED is _semente_ in Portuguese.
 The single still logo conveys the essence of our group.
 
 ![SEED](./images/logo.png)
 
-### Where did we come from?
+## Origins
 
-Our former research group [aside@ufba](http://aside.dcc.ufba.br/) 
-born in 2003,
-investigated topics related to software design and evolution, 
-After 18 years, it has itself evolved. 
-We needed a new name, goals and clothes. 
+<p>
+Our research group, formerly [aside@ufba](http://aside.dcc.ufba.br/), 
+was born in 2003 with the goal of
+investigating topics related to software design and evolution. 
+Over 18 years, the group itself has evolved. 
+SEED brings new challenges, goals and clothes. 
+ </p>
 
-### Former members
+## Former Members
 
-We are very grateful to all collaborators and friends i
-that joined and contributed to the aside@ufba group.
+We are very grateful to everyone that joined and contributed to the aside@ufba group.
 
 + Antonio Terceiro, 2003
 + Lucas Rocha, 2003
@@ -43,7 +46,7 @@ that joined and contributed to the aside@ufba group.
 + André 
 + Isaac, 2006
 + Rodrigo Rocha, 2007
-+ Tom
++ Antonio Tom
 + Helton
 + Daniela Feitosa, 2009
 + Bruno Silva, 2011
