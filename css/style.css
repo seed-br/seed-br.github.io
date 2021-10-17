@@ -533,7 +533,7 @@ textarea.form-control {
 }
 
 .navigation {
-  background: linear-gradient(to right, transparent 50%, #ffbc3b 50%);
+  background: linear-gradient(to right, transparent 50%, #ff8800 50%);
   transition: .2s ease;
 }
 
