@@ -176,7 +176,7 @@ h6, .h6 {
 }
 
 .btn-primary:hover {
-  background: #ffab08;
+  background: #ffbc3b;
   color: #ffbc3b;
 }
 
@@ -184,8 +184,8 @@ h6, .h6 {
 .btn-primary:not(:disabled):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #ffab08;
-  border-color: #ffab08;
+  background-color: #ffbc3b;
+  border-color: #ffbc3b;
 }
 
 .btn-secondary {
@@ -551,7 +551,7 @@ textarea.form-control {
 
 .navbar-nav {
   padding-left: 50px;
-  background: #ffab08;
+  background: #ffbc3b;
 }
 
 @media (max-width: 991px) {
