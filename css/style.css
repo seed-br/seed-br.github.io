@@ -551,8 +551,7 @@ textarea.form-control {
 
 .navbar-nav {
   padding-left: 50px;
-  padding-right: 50px;
-  background: #ff723b;
+  background: #1a1a37;
 }
 
 @media (max-width: 991px) {
