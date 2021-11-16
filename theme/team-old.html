@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+    <meta charset="UTF-8">
+    <title>seed.br</title>
+
+    <!-- mobile responsive meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- ** Plugins Needed for the Project ** -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+    <!-- slick slider -->
+    <link rel="stylesheet" href="plugins/slick/slick.css">
+    <!-- themefy-icon -->
+    <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css">
+    <!-- animation css -->
+    <link rel="stylesheet" href="plugins/animate/animate.css">
+    <!-- aos -->
+    <link rel="stylesheet" href="plugins/aos/aos.css">
+    <!-- venobox popup -->
+    <link rel="stylesheet" href="plugins/venobox/venobox.css">
+
+    <!-- Main Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+
+</head>
+<body>
+<!-- header -->
+<header class="fixed-top header">
+  <!-- navbar -->
+  <div class="navigation w-100">
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-dark p-0">
+        <a class="navbar-brand" href="./index"><img src="images/logo.png" alt="logo"></a>
+        <button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation"
+          aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navigation">
+          <ul class="navbar-nav ml-auto text-center">
+            <li class="nav-item @@home">
+              <a class="nav-link" href="./index">Home</a>
+            </li>
+            <li class="nav-item @@about">
+              <a class="nav-link" href="./about">About</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="./team">Team</a>
+            </li>
+            <li class="nav-item @@about">
+              <a class="nav-link" href="./research">Research</a>
+            </li>
+            <li class="nav-item @@about">
+              <a class="nav-link" href="./documentation">Resources</a>
+            </li>
+            <li class="nav-item @@blog">
+              <a class="nav-link" href="./blog">BLOG</a>
+            </li>
+            <li class="nav-item @@contact">
+              <a class="nav-link" href="./contact">CONTACT</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>
+<!-- /header -->
+<!-- page title -->
+<section class="page-title-section overlay" data-background="images/backgrounds/page-title.jpg">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <ul class="list-inline custom-breadcrumb">
+          <li class="list-inline-item"><a class="h2 text-primary font-secondary" href="@@page-link">Our Team</a></li>
+          <li class="list-inline-item text-white h3 font-secondary @@nasted"></li>
+        </ul>
+        <p class="text-lighten">Our Team. </p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /page title -->
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        {{ content }}
+     </div>
+    </div>
+  </div>
+</section>
+
+<!-- footer -->
+<footer>
+  <!-- copyright -->
+  <div class="copyright py-4 bg-footer">
+     &copy; 2021 Christina von Flach
+  </div>
+</footer>
+<!-- /footer -->
+</body>
+</html>
+
