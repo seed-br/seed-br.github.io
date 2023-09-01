@@ -1,7 +1,0 @@
----
-layout: research
----
-
-## Research
-
-

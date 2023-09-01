@@ -1,0 +1,37 @@
+---
+layout: event-wrapper
+menu:
+  - name: Sobre
+    url: /2022/#about
+  - name: Programação
+    url: /2022/#schedule
+  - name: Orientações
+    url: /2022/guidelines-autores
+  - name: Equipe
+    url: /2022/#staff
+---
+
+{% include partials/navigation.html -%}
+
+{% if page.main_page %}
+  {% include partials/banner.html %}
+  {% include partials/about.html %}
+  {% include partials/statistics.html %}
+  {% include partials/schedule.html %}
+  {% include partials/staff.html %}
+{% else %}
+  {% include partials/title.html %}
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+
+          {{ content }}
+
+        </div>
+      </div>
+    </div>
+  </section>
+{% endif %}
+
+{% include partials/footer.html %}
