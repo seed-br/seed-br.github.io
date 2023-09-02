@@ -1,8 +1,10 @@
 # Site settings
-title: seed-br
-email: ""
-baseurl: ""
-url: "http://seed-br.github.io"
+title: Grupo de Pesquisa SEED.BR
+email: "flach@ufba.br"
+baseurl: "/seed.br"
+url: ""
+#baseurl: ""
+#url: "http://seed-br.github.io"
 
 # Build settings
 markdown: kramdown
@@ -21,6 +23,7 @@ exclude:
 # Nao apague estes arquivos ao executar build
 keep_files:
   - .git
+  - .svn
   - javascript
 
 collections:
@@ -30,9 +33,6 @@ collections:
   slides:
     output: true
     permalink: ":title/index.html"
-  ascii:
-    output: true
-    permalink: ":path"
 
 # Configuracoes padrao para posts
 defaults:
@@ -53,9 +53,3 @@ defaults:
       type: "slides"
     values:
       layout: "revealjs"
-  -
-    scope:
-      path: ""
-      type: "ascii"
-    values:
-      layout: null

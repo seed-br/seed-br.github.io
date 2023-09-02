@@ -1,6 +1,6 @@
-MIT License
+### MIT License
 
-Copyright (c) 2023 seed.br
+Copyright (c) 2023 Christina von Flach, Daniela Feitosa, Joenio M. Costa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

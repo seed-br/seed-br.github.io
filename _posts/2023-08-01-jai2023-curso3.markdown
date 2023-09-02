@@ -1,7 +1,8 @@
 ---
 title: Slides
-layout: page
 ---
+
+Apresentações do grupo de pesquisa SEED.BR
 
 * JAI 2023 - Ciência Aberta
    * [Parte 1]({{ site.baseurl }}/jai2023-parte1-teoria)
@@ -12,4 +13,3 @@ layout: page
 
 * Defesa de Mestrado
    * [Sustentabilidade técnica de software acadêmico no domínio de ferramentas de análise estática de código-fonte]({{ site.baseurl }}/sustentabilidade-software-academico)
-

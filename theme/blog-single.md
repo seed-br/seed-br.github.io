@@ -1,6 +1,0 @@
----
-layout: blog-single
----
-
-
-
