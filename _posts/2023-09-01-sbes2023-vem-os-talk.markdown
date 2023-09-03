@@ -1,7 +1,13 @@
 ---
 title: Slides
-layout: page
 ---
+
+Apresentações do grupo de pesquisa SEED.BR
+
+* CBSOFT 2023
+   * SBES 2023 Education
+   * OS 2023
+   * [VEM 2023]({{ site.baseurl }}/sbes2023-vem-os-talk)
 
 * JAI 2023 - Ciência Aberta
    * [Parte 1]({{ site.baseurl }}/jai2023-parte1-teoria)
@@ -12,5 +18,3 @@ layout: page
 
 * Defesa de Mestrado
    * [Sustentabilidade técnica de software acadêmico no domínio de ferramentas de análise estática de código-fonte]({{ site.baseurl }}/sustentabilidade-software-academico)
-
-
