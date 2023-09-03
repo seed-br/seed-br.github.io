@@ -1,0 +1,116 @@
+Open Science in Latin America?
+- researchers in Latin America, Africa, Asia, and other regions of the Global South looking to engage with open science often can’t access — or be trained in — the tools and software they need to drive their research forward.
+- pursuing this vision, we need to intentionally include and empower scientific communities worldwide.
+
+In Computational Science there is an initiative called reproducible research [17]. Reproducible research aims that
+anything in a scientific paper should be reproducible by the
+reader, including results, plots, and graphs. The ultimate product should not be a published paper but rather the entire environment used to produce the results in the paper (data, software, etc.).
+
+In other words, reproduction indicates the reproducibility of a measurement.
+According to Hunter [13], reproducibility refers
+to measures of inter-laboratory variability. This is equivalent to the definition in ISO 5725-1 [1], where, in reference to measurements, reproducibility conditions are defined as conditions where test results are obtained with the same method on identical test material in different laboratories with different operators using different equipment. There is a longitudinal multiple-case study that uses this coefficient in Empirical SE [2].
+
+In re-analysis, the data of a previously run experiment
+are used to verify the results rather than re-running the
+experiment. Re-analysis verifies two issues:
+1. Data are analyzed by other researches using the same
+data analysis technique to verify that no errors were
+made during the data analysis phase.
+2. Data are analyzed with other analysis techniques to
+verify whether similar findings can be obtained
+the same data of a previous experiment.
+
+For example, one of the metrics in the experiment run
+by Kamsties and Lott [14] to measure the effectiveness of
+several defect detection techniques is the percentage of total
+possible failures observed. If we had access to the data of
+this experiment, we could verify the result using the same
+analysis procedures used by the experimenters (ANOVA) or
+we could re-analyse the results using a Generalized Linear
+Model with a logit link function.
+Replication verifies that the observed findings are stable
+enough to be discovered more than once. Replication uses
+the same method as in the baseline experiment. Different
+types of replications need to be perform to verify the findings independence of every component of the experimental structure.
+
+Continuing with the above example, an experimenter can
+vary the type of experimental subjects (using practitioners
+instead of students) or the artefacts (programs, source code
+or specifications). Each change leads to a replication type.
+Each replication type fulfils a purpose in the verification
+of the findings. The changes made in the example aim to
+verify whether the observed event is a local phenomenon
+for a particular subject type or for particular artefacts or
+whether it exhibits a more global pattern.
+Reproduction verifies that the findings are not to be attributed to the experimental method. In reproduction a new
+experiment is run (using different experimental methods) to
+test the same hypotheses as the baseline experiment. This
+form of verification is to be used it is suspected that the
+findings observed in an experiment are artifactual (product
+of the apparatus). In this type of repetition, the replicator
+has “nothing more than a clear statement of the empirical
+fact” [21] which the previous experimenter claims to have
+established.
+Again using the above example, supposing that the experimenters have observed that Technique A is more effective
+than Technique B with inexperienced (junior) subjects. A
+reproduction would mean the experimenters preparing their
+own materials and artefacts, and defining their own metrics
+to measure the response variables (i.e. creating their own apparatus). The constructs are operationalized differently to
+verify that the findings are independent of the experimental
+method used.
+
+--------
+
+
+Improving the reliability and efficiency of scientific research will increase the credibility of the published scientific literature and accelerate discovery. Here we argue for adopting measures to optimize key elements of the scientific process: methods, reporting and dissemination, reproducibility, evaluation, and incentives. There is some evidence from both simulations and empirical studies supporting the likely effectiveness of these measures. Still, their broad adoption by researchers, institutions, funders, and journals will require iterative evaluation and improvement. We discuss the goals of these measures and how they can be implemented in the hope that this will facilitate action toward improving the transparency, reproducibility, and efficiency of scientific research.
+
+Melhorar a confiabilidade e a eficiência da pesquisa científica aumentará a credibilidade da literatura científica publicada e acelerará as descobertas. Aqui defendemos a adoção de medidas para otimizar elementos-chave do processo científico: métodos, relatórios e divulgação, reprodutibilidade, avaliação e incentivos. Existem algumas evidências de simulações e estudos empíricos que apóiam a provável eficácia dessas medidas. Ainda assim, sua ampla adoção por pesquisadores, instituições, financiadores e periódicos exigirá avaliação e melhoria interativas. Discutimos os objetivos dessas medidas e como elas podem ser implementadas na esperança de que isso facilite a ação para melhorar a transparência, reprodutibilidade e eficiência da pesquisa científica.
+
+
+The increasing use of Research Software has instigated the scientific community’s concern with its sustainability and ability to support the reproduction of studies by independent researchers.
+
+Software sustainability has to do with the software’s ability to last
+
+and continue to be supported over time, implying the longevity and
+
+maintainability of the software and its communities. For research
+
+software, sustainability may foster long-term reproducibility. In
+
+this context, it is essential to understand and describe the current
+
+practice in universities and research laboratories concerning the
+
+development of sustainable research software. However, such in-
+
+formation is seldom available, even for research projects funded by
+
+national agencies. In this paper, we present the results of a pilot
+
+study conducted with a research group in Applied Physics, whose
+
+researchers and undergraduate interns historically developed most
+
+of the supporting research software. We interviewed the leading
+
+investigator to collect information about his knowledge of research
+
+software and software engineering practices, the challenges and
+
+supporting factors to develop research software, and possible efforts
+
+to make it sustainable. We analyzed the sustainability of a research
+
+software developed by the group and reported the results. The pilot
+
+study allowed us to refine the study design aiming to increase the
+
+validity and reliability of a more comprehensive study to be under-
+
+taken with other research groups at the same University. Emerging
+
+results include a preliminary assessment model, comprising criteria
+
+to analyze the sustainability of research software developed at the
+
+university.
