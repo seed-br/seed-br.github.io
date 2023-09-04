@@ -1,21 +1,9 @@
 ---
-title: Slides
+title: CBSOFT 2023
 ---
 
-Apresentações do grupo de pesquisa SEED.BR
+* [Talk]({{ site.baseurl }}/sbes2023-talk)
+* [SBES Education]({{ site.baseurl }}/sbes2023-education)
+* [OpenScienSE - Interview]({{ site.baseurl }}/openscienSE2023-interview)
+* [OpenScienSE - Evaluation]({{ site.baseurl }}/openscienSE2023-evaluation)
 
-* SBES 2023
-   * [Talk]({{ site.baseurl }}/sbes2023-talk)
-   * [SBES Education]({{ site.baseurl }}/sbes2023-education)
-   * [OpenScienSE - Interview]({{ site.baseurl }}/OS2023-interview)
-   * [OpenScienSE - Evaluation]({{ site.baseurl }}/OS2023-evaluation)
-
-* JAI 2023 - Ciência Aberta
-   * [Parte 1]({{ site.baseurl }}/jai2023-parte1-teoria)
-   * [Parte 2]({{ site.baseurl }}/jai2023-parte2-pratica)
-
-* SBES IIER
-   * [On the Sustainability of Academic Software: The Case of Static Analysis Tools]({{ site.baseurl }}/sustainability-academic-software)
-
-* Defesa de Mestrado
-   * [Sustentabilidade técnica de software acadêmico no domínio de ferramentas de análise estática de código-fonte]({{ site.baseurl }}/sustentabilidade-software-academico)
