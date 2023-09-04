@@ -1,4 +1,12 @@
-# JAI 2023
+# SEED.BR
+
++ DOI: 10.5281/zenodo.8314250
+
+## Slides
+
+### SBES 2023
+
+### JAI 2023
 
 Capítulo de livro e slides do curso ```Princípios e Práticas para Sustentabilidade do Software de Pesquisa'''.
 2023. Christina von Flach, Daniela Feitosa e Joenio M. Costa.
@@ -7,12 +15,11 @@ Capítulo de livro e slides do curso ```Princípios e Práticas para Sustentabil
 - Slides
 - Code [MIT](https://opensource.org/license/mit/)
 
-### Rodar site local usando docker
+#### Rodar site local usando docker
 
 Instale Docker, Docker Compose e execute o comando abaixo.
 
 ```sh
 docker-compose up
 ```
-
 - Entao acesse o site em http://127.0.0.1:4000
