@@ -1,7 +1,7 @@
 # Site settings
 title: Grupo de Pesquisa SEED.BR
 email: flach@ufba.br
-baseurl: "/seed-br"
+baseurl: ""
 url: ""
 
 # Build settings
