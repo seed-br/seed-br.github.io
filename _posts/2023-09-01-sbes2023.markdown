@@ -5,9 +5,10 @@ title: Slides
 Apresentações do grupo de pesquisa SEED.BR
 
 * SBES 2023
-   * [Education]({{ site.baseurl }}/jai2023-parte1-teoria)
-   * [OpenScienSE]({{ site.baseurl }}/openscienSE2023))
-   * [VEM]({{ site.baseurl }}/vem2023-talk)
+   * [Talk]({{ site.baseurl }}/sbes2023-talk)
+   * [SBES Education]({{ site.baseurl }}/sbes2023-education)
+   * [OpenScienSE - Interview]({{ site.baseurl }}/OS2023-interview)
+   * [OpenScienSE - Evaluation]({{ site.baseurl }}/OS2023-evaluation)
 
 * JAI 2023 - Ciência Aberta
    * [Parte 1]({{ site.baseurl }}/jai2023-parte1-teoria)

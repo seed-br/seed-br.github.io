@@ -13,3 +13,4 @@ layout: page
 * Defesa de Mestrado
    * [Sustentabilidade técnica de software acadêmico no domínio de ferramentas de análise estática de código-fonte]({{ site.baseurl }}/sustentabilidade-software-academico)
 
+
