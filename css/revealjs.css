@@ -1,0 +1,49 @@
+section .box-blue,
+section .box-green,
+section .box-gray,
+section .box-yellow,
+section .box-white {
+  padding: 20px;
+}
+
+section .box-blue {
+  background: url(/files/backgrounds/RGB101133D8.svg);
+}
+section .box-green {
+  background: url(/files/backgrounds/RGB071707D8.svg);
+}
+section .box-gray {
+  background: url(/files/backgrounds/RGB2A2A2CD8.svg);
+}
+section .box-yellow {
+  background: url(/files/backgrounds/RGB37371AC1.svg);
+}
+section .box-white {
+  background: url(/files/backgrounds/RGBE6E6E645.svg);
+}
+
+.url {
+  color: #4444FF;
+  text-shadow: 1px 1px 1px #004;
+}
+
+.reveal section img {
+  background: none;
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal .slide-number {
+  font-size: 26px;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.reveal .cite {
+  font-size: 22px;
+  margin-top: 15px;
+  color: #222;
+}
+
+.reveal .progress {
+  color: red;
+}
