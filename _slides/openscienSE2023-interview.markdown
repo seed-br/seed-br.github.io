@@ -12,7 +12,7 @@ theme: simple
 #### (*) Christina von Flach (IC-UFBA)
 
 #### Daniela Feitosa (PGCOMP-UFBA)
-#### Joenio Costa (LISIS-França)
+#### Joenio Costa (LISIS-France)
 
 Campo Grande, 25/9/2023
 
@@ -433,7 +433,7 @@ beyond the research community, benefiting the general public
 
 > Interviews offer a rich and interactive space for discussions
 
-<!-- >, allowing exploration of participant’s experiences, opinions and challenges. -->
+<!-- allowing exploration of participant’s experiences, opinions and challenges. -->
 
 > A talk, prior to the interview, with the fundamental concepts is important.
 
@@ -447,18 +447,6 @@ beyond the research community, benefiting the general public
 
 > By embracing the strengths and addressing the limitations identified, we will be able to understand the current practices adopted, the challenges and supporting factors to develop sustainable RS.
 
-
-</section>
-
-<section>
-
-### Princípios e Práticas para Sustentabilidade do Software de Pesquisa
-
-Apresentadoras:
-
-Christina von Flach (IC-UFBA): flach@ufba.br
-
-Daniela Feitosa (PGCOMP-UFBA): dfeitosa@ufba.br
 
 </section>
 
