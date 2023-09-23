@@ -47,3 +47,7 @@ section .box-white {
 .reveal .progress {
   color: red;
 }
+
+.reveal .table {
+  font-size: 30px;
+}
