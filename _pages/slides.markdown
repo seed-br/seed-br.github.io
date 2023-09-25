@@ -3,6 +3,9 @@ title: Slides
 layout: page
 ---
 
+* CBSOFT 2023
+   * [Palestra]({{ site.baseurl }}/cbsoft-talk)
+
 * JAI 2023 - Ciência Aberta
    * [Parte 1]({{ site.baseurl }}/jai2023-parte1-teoria)
    * [Parte 2]({{ site.baseurl }}/jai2023-parte2-pratica)
