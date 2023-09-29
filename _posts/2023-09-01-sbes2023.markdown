@@ -1,9 +1,0 @@
----
-title: CBSOFT 2023
----
-
-* [Talk]({{ site.baseurl }}/sbes2023-talk)
-* [SBES Education]({{ site.baseurl }}/sbes2023-education)
-* [OpenScienSE - Interview]({{ site.baseurl }}/openscienSE2023-interview)
-* [OpenScienSE - Evaluation]({{ site.baseurl }}/openscienSE2023-evaluation)
-
