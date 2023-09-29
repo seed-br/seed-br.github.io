@@ -135,6 +135,25 @@ previously reported barriers of OSS-based learning.
 <!-- -------------------------------- -->
 <section>
 
+### The course in Practice
+
+<img src="{{ site.baseurl }}/files/sbes2023/topics.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+
+### The course in Practice
+
+<img src="{{ site.baseurl }}/files/sbes2023/questions.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
+
+</section>
+
+
+<!-- -------------------------------- -->
+<section>
+
 ### Students' Feedback
 
 <img src="{{ site.baseurl }}/files/sbes2023/demographics.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
@@ -177,8 +196,6 @@ about OSS projects.
 <section>
 ### Instructors'Reflections
 
-<img src="{{ site.baseurl }}/files/sbes2023/demographics.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
-
 - Course design
 - Git-Paralysis
 - Journaling
@@ -186,6 +203,14 @@ about OSS projects.
 - Contributions to OSS
 - Growing soft skills
 - Dissemination
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Diaries
+
+<img src="{{ site.baseurl }}/files/sbes2023/diario.png" width="550" style="box-shadow:0px 0px 2px gray;background:white" />
+
 </section>
 
 <!-- -------------------------------- -->
