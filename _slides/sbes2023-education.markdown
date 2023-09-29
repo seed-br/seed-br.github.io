@@ -141,11 +141,51 @@ previously reported barriers of OSS-based learning.
 
 </section>
 
+<!-- -------------------------------- -->
+<section>
+### Did the course meet your expectations?
 
+Most of the students
+reported as their basic expectation to acquire (more) knowledge
+about OSS projects.
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Were the strategies used during the semester's classes adequate?
+
+- Students's Gains
+- Students's Pains
+- Suggestions
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### General Comments
+
+- Demystifing OSS
+- Paradigm Shift
+- Education and Career
+- Nucleation
+- Use of internal projects
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
 ### Instructors'Reflections
 
 <img src="{{ site.baseurl }}/files/sbes2023/demographics.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
 
+- Course design
+- Git-Paralysis
+- Journaling
+- Project Selection
+- Contributions to OSS
+- Growing soft skills
+- Dissemination
 </section>
 
 <!-- -------------------------------- -->
