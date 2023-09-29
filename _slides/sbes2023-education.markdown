@@ -21,8 +21,7 @@ Campo Grande, 29/9/2023
 <!-- -------------------------------- -->
 <section>
 
-### Teaching and Promoting Engagement with OSS:
-### Yet Another Experience Report
+### Teaching and Promoting Engagement with OSS: Yet Another Experience Report
 
 - teaching with OSS
 - and promoting engagement with OSS
@@ -56,6 +55,14 @@ The availability of source code and the access to its community and development 
 2017.
 </small>
 </section>
+
+<!-- -------------------------------- -->
+<section>
+> We report our latest experience with OSS-based
+learning in a SE course entitled Topics in Software Engineering (TSE).
+</section>
+
+- Previous experience
 
 <!-- -------------------------------- -->
 <section>
@@ -97,6 +104,9 @@ previously reported barriers of OSS-based learning.
 2. Disciplina optativa
 3. Preocupação com apoio
 4. Preocupação com  _nucleação_
+
+</section>
+
 
 <!-- -------------------------------- -->
 <section>
