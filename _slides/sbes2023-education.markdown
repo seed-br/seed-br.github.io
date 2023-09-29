@@ -6,7 +6,7 @@ theme: simple
 <!-- -------------------------------- -->
 <section>
 
-## Teaching and Promoting Engagement with OSS: 
+## Teaching and Promoting Engagement with OSS:
 ### Yet Another Experience Report
 
 
@@ -135,16 +135,80 @@ previously reported barriers of OSS-based learning.
 <!-- -------------------------------- -->
 <section>
 
+### The course in Practice
+
+<img src="{{ site.baseurl }}/files/sbes2023/topics.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+
+### The course in Practice
+
+<img src="{{ site.baseurl }}/files/sbes2023/questions.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+
 ### Students' Feedback
 
 <img src="{{ site.baseurl }}/files/sbes2023/demographics.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
 
 </section>
 
+<!-- -------------------------------- -->
+<section>
+### Did the course meet your expectations?
 
+Most of the students
+reported as their basic expectation to acquire (more) knowledge
+about OSS projects.
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Were the strategies used during the semester's classes adequate?
+
+- Students's Gains
+- Students's Pains
+- Suggestions
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### General Comments
+
+- Demystifing OSS
+- Paradigm Shift
+- Education and Career
+- Nucleation
+- Use of internal projects
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
 ### Instructors'Reflections
 
-<img src="{{ site.baseurl }}/files/sbes2023/demographics.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
+- Course design
+- Git-Paralysis
+- Journaling
+- Project Selection
+- Contributions to OSS
+- Growing soft skills
+- Dissemination
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Diaries
+
+<img src="{{ site.baseurl }}/files/sbes2023/diario.png" width="550" style="box-shadow:0px 0px 2px gray;background:white" />
 
 </section>
 
@@ -176,5 +240,4 @@ dents’ progress, and promote frequent discussions.
 about software licenses, continuous SE, social aspects of OSS,
 among other topics.
 </section>
-
 
