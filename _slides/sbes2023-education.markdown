@@ -28,6 +28,8 @@ Campo Grande, 29/9/2023
 - and promoting engagement with OSS
 - yet another experience report
 
+> We report our latest experience with OSS-based
+learning in a SE course entitled Topics in Software Engineering (TSE).
 </section>
 
 <!-- -------------------------------- -->
@@ -74,9 +76,6 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 
 </section>
 
-We report our latest experience with OSS-based
-learning in a SE course entitled Topics in Software Engineering (TSE).
-
 <!-- -------------------------------- -->
 <section>
 ### Challenges
@@ -97,11 +96,16 @@ previously reported barriers of OSS-based learning.
 1. Experiência prévia (desde 2011)
 2. Disciplina optativa
 3. Preocupação com apoio
+4. Preocupação com  _nucleação_
+
+<!-- -------------------------------- -->
+<section>
+### Yet another experience report
 
 #### Estudante
-3. Preocupação com _engajamento_
-4. Preocupação com  _nucleação_
-4. Preocupação com acompanhamento e feedback
+1. Preocupação com _engajamento_
+2. Preocupação com  _nucleação_
+3. Preocupação com acompanhamento e feedback
 </section>
 
 <!-- -------------------------------- -->
