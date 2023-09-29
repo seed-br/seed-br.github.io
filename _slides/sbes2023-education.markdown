@@ -21,77 +21,48 @@ Campo Grande, 29/9/2023
 <!-- -------------------------------- -->
 <section>
 
-### Teaching and Promoting Engagement with OSS: Yet Another Experience Report
-
-- teaching with OSS
-- and promoting engagement with OSS
-- yet another experience report
-
-> We report our latest experience with OSS-based
-learning in a SE course entitled Topics in Software Engineering (TSE).
-</section>
-
-<!-- -------------------------------- -->
-<section>
-
 ### Teaching with OSS
 
-> The need to reconcile theory and practice, using "real-world" scenarios to stimulate the improvement of technical and soft skills
-is demanding for Software Engineering (SE) and Computer Science Education.
+### Promoting Engagement with OSS
 
-> Previous experience
+### Yet Another Experience Report
 
-<small class="cite">
-</small>
 </section>
 
 <!-- -------------------------------- -->
 <section>
-### Open Source Software (OSS)
+
+### Teaching with Open Source Software
 
 The availability of source code and the access to its community and development workflows are appealing factors for adopting OSS in SEE.
 
-<small class="cite">
-2017.
-</small>
+
+<img src="{{ site.baseurl }}/files/sbes2023/osi-completo.png" width="500" style="box-shadow:0px 0px 2px gray;background:white" />
 </section>
 
 <!-- -------------------------------- -->
 <section>
-> We report our latest experience with OSS-based
-learning in a SE course entitled Topics in Software Engineering (TSE).
-</section>
 
-- Previous experience
+### Teaching with Open Source Software
 
-<!-- -------------------------------- -->
-<section>
-### And promoting engagement with OSS
-
-JabRef
-
-<small class="cite">
-Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Software**. [DOI: 10.54900/9akm9y5-5ject5y](https://doi.org/10.54900/9akm9y5-5ject5y), 2023.
-</small>
+<img src="{{ site.baseurl }}/files/sbes2023/boaspraticas.png" width="600" style="box-shadow:0px 0px 2px gray;background:white" />
 </section>
 
 <!-- -------------------------------- -->
 <section>
-### Benefits
 
-<img src="{{ site.baseurl }}/files/parte1/analizo-website.png" width="500" style="box-shadow:0px 0px 2px gray;background:white" />
+### Teaching with Open Source Software
 
+> The need to reconcile theory and practice, using "real-world" scenarios to stimulate the improvement of technical and soft skills is demanding for Software Engineering (SE) and Computer Science Education.
+
+<img src="{{ site.baseurl }}/files/sbes2023/analizo.png" width="400" style="box-shadow:0px 0px 2px gray;background:white" />
 </section>
 
 <!-- -------------------------------- -->
 <section>
-### Challenges
+### And Promoting Engagement with OSS
 
-- reconcile theory with practice (evolving
-software in social coding platforms) while planning to address
-previously reported barriers of OSS-based learning. 
-
-- Not a mandatory SE course
+<img src="{{ site.baseurl }}/files/sbes2023/analizo.png" width="500" style="box-shadow:0px 0px 2px gray;background:white" />
 
 </section>
 
@@ -120,6 +91,16 @@ previously reported barriers of OSS-based learning.
 
 <!-- -------------------------------- -->
 <section>
+### This experience report
+
+> We report our latest experience with OSS-based
+learning in a SE course entitled Topics in Software Engineering (TSE).
+
+> Previous experience
+</section>
+
+<!-- -------------------------------- -->
+<section>
 ### Course Design
 
 #### Learning outcomes
@@ -129,9 +110,49 @@ previously reported barriers of OSS-based learning.
 - Select OSS projects to work with based on their domain and other characteristics.
 - Understand aspects related contributing to OSS projects.
 
+</section>
+
 <!-- -------------------------------- -->
 <section>
-### Diaries
+
+### Course in Structure
+
+- Lectures
+- Readings
+- Talks
+- Journals (Diaries)
+- Work with OSS pre-selected by the instructors
+- Work with OSS project selected by the students
+- Assessment
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+
+### Course Structure
+#### Hands-on Activities
+
+<img src="{{ site.baseurl }}/files/sbes2023/table1.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
+
+</section>
+
+
+<!-- -------------------------------- -->
+<section>
+
+### The Course in Practice
+
+<img src="{{ site.baseurl }}/files/sbes2023/table2-lectures.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
+
+</section>
+
+
+<!-- -------------------------------- -->
+<section>
+### The Course in Practice
+
+## Diaries
 
 <img src="{{ site.baseurl }}/files/sbes2023/diario.png" width="550" style="box-shadow:0px 0px 2px gray;background:white" />
 
@@ -140,18 +161,9 @@ previously reported barriers of OSS-based learning.
 <!-- -------------------------------- -->
 <section>
 
-### The course in Practice
+### The Course in Practice
 
-<img src="{{ site.baseurl }}/files/sbes2023/demographics.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
-
-</section>
-
-<!-- -------------------------------- -->
-<section>
-
-### The course in Practice
-
-<img src="{{ site.baseurl }}/files/sbes2023/topics.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
+<img src="{{ site.baseurl }}/files/sbes2023/table3-projects.png" width="600" style="box-shadow:0px 0px 2px gray;background:white" />
 
 </section>
 
@@ -160,26 +172,29 @@ previously reported barriers of OSS-based learning.
 
 ### The course in Practice
 
-<img src="{{ site.baseurl }}/files/sbes2023/questions.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
+<img src="{{ site.baseurl }}/files/sbes2023/table4-demographics.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
 
 </section>
+
+<!-- -------------------------------- -->
+<section>
+
+### The Course in Practice
+#### Questions
+
+<img src="{{ site.baseurl }}/files/sbes2023/table5-questions.png" width="1800" style="box-shadow:0px 0px 2px gray;background:white" />
+
+</section>
+
 
 <!-- -------------------------------- -->
 <section>
 
 ### Students' Feedback
 
-<img src="{{ site.baseurl }}/files/sbes2023/demographics.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
+#### Did the course meet your expectations?
 
-</section>
-
-<!-- -------------------------------- -->
-<section>
-### Did the course meet your expectations?
-
-Most of the students
-reported as their basic expectation to acquire (more) knowledge
-about OSS projects.
+Most of the students reported as their basic expectation to acquire (more) knowledge about OSS projects.
 
 </section>
 
@@ -220,14 +235,6 @@ about OSS projects.
 
 <!-- -------------------------------- -->
 <section>
-### Diaries
-
-<img src="{{ site.baseurl }}/files/sbes2023/diario.png" width="550" style="box-shadow:0px 0px 2px gray;background:white" />
-
-</section>
-
-<!-- -------------------------------- -->
-<section>
 
 ### Recommendations from the Trenches
 
@@ -240,6 +247,14 @@ ternal or external projects).
 - Plan to be flexible.
 - Plan and communicate the syllabus early, leaving room
 for last-minute, on-the-fly modifications.
+</section>
+
+
+<!-- -------------------------------- -->
+<section>
+
+### Recommendations from the Trenches
+
 - Survey the students’ knowledge and previous experience
 with OSS and adjust the course plan, if necessary.
 (5) Select suitable OSS projects.
@@ -253,5 +268,26 @@ dents’ progress, and promote frequent discussions.
 - Invite keynotes to share their expertise and present talks
 about software licenses, continuous SE, social aspects of OSS,
 among other topics.
+</section>
+
+<section>
+
+<img src="{{ site.baseurl }}/files/sbes2023/artefact-availability.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
+
+
+</section>
+
+<section>
+
+## Teaching and Promoting Engagement with OSS:
+### Yet Another Experience Report
+
+
+#### (*) Christina von Flach (IC-UFBA)
+
+#### Daniela Feitosa (PGCOMP-UFBA)
+
+Campo Grande, 29/9/2023
+
 </section>
 
