@@ -249,6 +249,21 @@ ternal or external projects).
 for last-minute, on-the-fly modifications.
 </section>
 
+<!-- -------------------------------- -->
+<section>
+
+### Recommendations from the Trenches
+
+- Hands-on activities are the core of the course: recruit at least
+one teaching assistant with experience in OSS development.
+- Promote open communication: define communication chan-
+nels early and use them effectively.
+- Decide on a control strategy to use early in the course (in-
+ternal or external projects).
+- Plan to be flexible.
+- Plan and communicate the syllabus early, leaving room
+for last-minute, on-the-fly modifications.
+</section>
 
 <!-- -------------------------------- -->
 <section>
@@ -257,9 +272,24 @@ for last-minute, on-the-fly modifications.
 
 - Survey the students’ knowledge and previous experience
 with OSS and adjust the course plan, if necessary.
-(5) Select suitable OSS projects.
+- Select suitable OSS projects.
 - Define criteria, filter and select a set of small OSS projects
 to use as internal learning objects.
+- Double-check the OSS project for welcome messages and
+guidelines for newcomers.
+- Mentor students in selecting an OSS project to contribute.
+- Share early and share often: share journal entries and stu-
+dents’ progress, and promote frequent discussions.
+- Invite keynotes to share their expertise and present talks
+about software licenses, continuous SE, social aspects of OSS,
+among other topics.
+</section>
+
+<!-- -------------------------------- -->
+<section>
+
+### Recommendations from the Trenches
+
 - Double-check the OSS project for welcome messages and
 guidelines for newcomers.
 - Mentor students in selecting an OSS project to contribute.
