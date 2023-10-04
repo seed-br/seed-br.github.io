@@ -6,16 +6,7 @@ theme: simple
 <!-- -------------------------------- -->
 <section>
 
-## Understanding the challenges of developing sustainable RS
-
-
-#### (*) Christina von Flach (IC-UFBA)
-
-#### Daniela Feitosa (PGCOMP-UFBA)
-#### Joenio Costa (LISIS-France)
-
-Campo Grande, 25/9/2023
-
+<img src="{{ site.baseurl }}/files/openscienSE/capa-artigo-1.png" width="1200" height="650" style="box-shadow:0px 0px 2px gray;background:white" />
 </section>
 
 <!-- -------------------------------- -->

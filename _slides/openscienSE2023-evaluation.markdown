@@ -5,19 +5,11 @@ theme: simple
 
 <!-- -------------------------------- -->
 <section>
-## Understanding Sustainability and FAIRness of Research Software
 
-
-#### (*) Christina von Flach (IC-UFBA)
-
-#### Daniela Feitosa (PGCOMP-UFBA)
-#### Joenio Costa (LISIS-France)
-
-Campo Grande, 25/9/2023
-
+<img src="{{ site.baseurl }}/files/openscienSE/capa-artigo-2.png" width="1200" height="650" style="box-shadow:0px 0px 2px gray;background:white" />
 </section>
 
-
+<!-- -------------------------------- -->
 <section>
 
 ### Contexto
@@ -26,6 +18,7 @@ Campo Grande, 25/9/2023
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 ### Objetivo
@@ -35,6 +28,7 @@ Bahia (UFBA).
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 ### Fluxo de trabalho
@@ -48,6 +42,7 @@ Bahia (UFBA).
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 ### Avaliação
 
@@ -56,11 +51,12 @@ software de pesquisa desenvolvido pelo grupo de pesquisa com base em critérios 
 
 </section>
 
-
+<!-- -------------------------------- -->
 <section data-background="#CBC3E3" data-background-transition="slide">
 ### Abordagens relacionadas
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Abordagens relacionadas -->
@@ -74,7 +70,7 @@ Com base em alguns critérios do SSI, propomos um modelo com 16 práticas de des
 
 </section>
 
-
+<!-- -------------------------------- -->
 <section>
 
 ### FAIRness
@@ -87,7 +83,7 @@ Princípios FAIR
 
 </section>
 
-
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Abordagens relacionadas -->
@@ -112,6 +108,7 @@ https://doi.org/10.15497/RDA00065
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Abordagens relacionadas -->
@@ -125,7 +122,7 @@ The Carpentries oferece treinamentos para conduzir pesquisas eficientes, abertas
 </section>
 
 
-
+<!-- -------------------------------- -->
 <section data-background="#ADD8E6" data-background-transition="slide">
 ### Avaliação piloto
 
@@ -133,6 +130,7 @@ Software `MOSYN`
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Avaliação piloto -->
@@ -145,7 +143,7 @@ Software `MOSYN`
 
 </section>
 
-
+<!-- -------------------------------- -->
 <section data-background="#9ED2BE" data-background-transition="slide">
 <!-- ### Avaliação piloto -->
 
@@ -156,6 +154,7 @@ Software `MOSYN`
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Avaliação piloto -->
@@ -171,6 +170,7 @@ Foram consideradas 16 práticas (P1-P16), organizadas em 5 grupos:
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Avaliação piloto -->
@@ -194,6 +194,7 @@ Foram consideradas 16 práticas (P1-P16), organizadas em 5 grupos:
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Avaliação piloto -->
@@ -216,6 +217,7 @@ Foram consideradas 16 práticas (P1-P16), organizadas em 5 grupos:
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Avaliação piloto -->
@@ -238,6 +240,8 @@ Foram consideradas 16 práticas (P1-P16), organizadas em 5 grupos:
 
 </section>
 
+
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Avaliação piloto -->
@@ -262,6 +266,7 @@ Foram consideradas 16 práticas (P1-P16), organizadas em 5 grupos:
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Avaliação piloto -->
@@ -284,6 +289,7 @@ Foram consideradas 16 práticas (P1-P16), organizadas em 5 grupos:
 
 </section>
 
+<!-- -------------------------------- -->
 <section data-background="#F7D9C4" data-background-transition="slide">
 <!-- ### Avaliação piloto -->
 
@@ -294,6 +300,7 @@ Foram consideradas 16 práticas (P1-P16), organizadas em 5 grupos:
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Avaliação piloto -->
@@ -306,10 +313,9 @@ Avaliamos o software `MOSYN` identificando se o software incorporou os princípi
 - **I**nteroperable
 - **R**eusable
 
-
-
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Avaliação piloto -->
@@ -329,6 +335,7 @@ Avaliamos o software `MOSYN` identificando se o software incorporou os princípi
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Avaliação piloto -->
@@ -347,6 +354,7 @@ Avaliamos o software `MOSYN` identificando se o software incorporou os princípi
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 #### Acessível **A**ccessible
@@ -365,6 +373,7 @@ Avaliamos o software `MOSYN` identificando se o software incorporou os princípi
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 #### Interoperável **I**nteroperable
@@ -381,6 +390,7 @@ Avaliamos o software `MOSYN` identificando se o software incorporou os princípi
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 #### Reusável **R**eusable
@@ -400,6 +410,7 @@ Avaliamos o software `MOSYN` identificando se o software incorporou os princípi
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Discussion -->
@@ -414,6 +425,7 @@ A avaliação foi realizada manualmente, por meio da inspeção de informações
 ### Conclusões
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Conclusões (1)-->
@@ -423,6 +435,7 @@ A avaliação foi realizada manualmente, por meio da inspeção de informações
 
 </section>
 
+<!-- -------------------------------- -->
 <section>
 
 <!-- ### Conclusões (2)-->
