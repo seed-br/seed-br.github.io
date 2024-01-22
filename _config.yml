@@ -1,10 +1,13 @@
 # Site settings
 title: Grupo de Pesquisa SEED.BR
+<<<<<<< HEAD
 email: "flach@ufba.br"
 baseurl: "/_slides"
+=======
+email: flach@ufba.br
+baseurl: ""
+>>>>>>> e243a76c2de32e00f549f1d30cefee04c18be22b
 url: ""
-#baseurl: ""
-#url: "http://seed-br.github.io"
 
 # Build settings
 markdown: kramdown
