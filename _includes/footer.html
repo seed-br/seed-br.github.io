@@ -1,18 +1,9 @@
 <footer class="site-footer">
-
   <div class="wrap">
-
-    <div class="column">
-      <p id="sobre">
-        <a href="{{ site.baseurl }}/sobre">
-          Sobre SEED.BR
-        </a>
-      </p>
-
-      <hr/>
-
-      <p id="rss">
-        <a type="application/rss+xml" href="{{ "/feed.xml" | prepend: site.baseurl }}">
+    {% include menu.html %}
+    <hr/>
+    <p id="rss">
+      <a type="application/rss+xml" href="{{ "/feed.xml" | prepend: site.baseurl }}">
         <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="rss-icon-svg" id="RSSicon" viewBox="0 0 256 256">
           <defs><linearGradient x1="0.085" y1="0.085" x2="0.915" y2="0.915" id="RSSg">
           <stop offset="0.0" stop-color="#E3702D"/><stop offset="0.1071" stop-color="#EA7D31"/>
@@ -27,10 +18,7 @@
           <path d="M184 213A140 140 0 0 0 44 73 V 38a175 175 0 0 1 175 175z" fill="#FFF"/>
         </svg>
         <span class="rss-subscribe">RSS</span>
-        </a>
-      </p>
-
-    </div>
+      </a>
+    </p>
   </div>
-
 </footer>

@@ -24,7 +24,7 @@ html, body { height: 100%; }
 
 body {
   font-family: 'PfennigMedium', Helvetica, Arial, sans-serif;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.5;
   font-weight: 300;
   background-color: #3d3d3d;
@@ -568,4 +568,25 @@ iframe.bioborgs-soundcloud {
 
 .sobre li {
   list-style: none;
+}
+
+/* menu */
+
+.menu {
+  background-color: #FAFAFA;
+  text-align: center;
+}
+
+.menu ul {
+  list-style: none;
+}
+
+.menu li {
+  display: inline;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
+.site-footer .menu {
+  background-color: #3d3d3d;
 }
