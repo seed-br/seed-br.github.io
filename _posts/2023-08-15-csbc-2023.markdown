@@ -1,7 +1,12 @@
+---
+title: CSBC 2023
+---
+
+
 * CSBC 2023 - Crônicas de uma Pesquisadora sobre Ciência Aberta
 
-* JAI 2023 - Ciência Aberta
-   * Capítulo de livro e slides do curso "Princípios e Práticas para Sustentabilidade do Software de Pesquisa". 2023. Christina von Flach, Daniela Feitosa e Joenio M. Costa.
+* JAI 2023 - Capítulo de livro e slides
+   * Princípios e Práticas para Sustentabilidade do Software de Pesquisa. Christina von Flach, Joenio M. Costa, Daniela Feitosa. DOI: [https://doi.org/10.5753/sbc.12853.0.3](https://doi.org/10.5753/sbc.12853.0.3)
    * [Parte 1]({{ site.baseurl }}/jai2023-parte1-teoria)
    * [Parte 2]({{ site.baseurl }}/jai2023-parte2-pratica)
 
