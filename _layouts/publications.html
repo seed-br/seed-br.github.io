@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+  {% include header.html %}
+  {% include menu.html %}
+    <div class="page-content">
+      <div class="wrap">
+        <div class="page publications">
+          <header class="page-header">
+            <h1>{{ page.title }}</h1>
+          </header>
+          <article class="page-inner-content">
+            {{ content }}
+            <div class="navbar">
+                <ul>
+                    {% assign grouped = site.data.publications | group_by: "year" %}
+                    {% for year in grouped %}
+                    <li><a href="#year-{{ year.name }}">{{ year.name }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% assign grouped = site.data.publications | group_by: "year" %}
+            {% for year in grouped %}
+            <h2 id="year-{{ year.name }}">{{ year.name }}</h2>
+            <ul>
+                {% for pub in year.items %}
+                <li>
+                    <strong>{{ pub.title }}</strong>. <a href="{{ pub.published_in.url }}" target="_blank">{{ pub.published_in.name }}</a> - <small><em>{{ pub.type }}</em></small><br>
+                    <em>{{ pub.authors }}</em>.
+                    <small>DOI:</small> <a href="https://doi.org/{{ pub.doi }}" target="_blank">{{ pub.doi }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+          </article>
+        </div>
+      </div>
+    </div>
+  {% include footer.html %}
+  </body>
+</html>

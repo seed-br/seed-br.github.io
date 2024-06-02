@@ -1,0 +1,80 @@
+- title: "Princípios e Práticas para Sustentabilidade do Software de Pesquisa"
+  authors: "Christina von Flach, Joenio M. Costa, Daniela Feitosa"
+  published_in:
+    name: "42ª Jornada de Atualização em Informática (JAI)"
+    url: "https://csbc.sbc.org.br/2023/jai"
+  year: 2023
+  doi: "10.5753/sbc.12853.0.3"
+  type: "Capítulo de livro"
+
+- title: "OSS in Software Engineering Education"
+  authors: "Fernanda Gomes Silva, Paulo Ezequiel D. Santos, Christina von Flach"
+  published_in:
+    name: "Journal of Software Engineering Research and Development (JSERD)"
+    url: "https://journals-sol.sbc.org.br/index.php/jserd/issue/view/277"
+  year: 2023
+  doi: "10.5753/jserd.2023.1977"
+  type: "Artigo de revista"
+
+- title: "Understanding Practices and Challenges of Developing Sustainable Research Software: A Pilot Interview"
+  authors: "Daniela Feitosa, Christina von Flach, Joenio Costa"
+  published_in:
+    name: "III Workshop de Práticas de Ciência Aberta para Engenharia de Software (OpenScienSE, 2023)"
+    url: "https://opensciense-org.github.io/opensciense2023/"
+  year: 2023
+  doi: "10.5753/opensciense.2023.235677"
+  type: "Artigo de conferência"
+
+- title: "Understanding Sustainability and FAIRness of Research Software"
+  authors: "Daniela Feitosa, Christina von Flach, Joenio Costa"
+  published_in:
+    name: "III Workshop de Práticas de Ciência Aberta para Engenharia de Software (OpenScienSE, 2023)"
+    url: "https://opensciense-org.github.io/opensciense2023/"
+  year: 2023
+  doi: "10.5753/opensciense.2023.235707"
+  type: "Artigo de conferência"
+
+- title: "Teaching and Promoting Engagement with OSS: Yet Another Experience Report"
+  authors: "Christina von Flach, Daniela Feitosa"
+  published_in:
+    name: "XXXVII Simpósio Brasileiro de Engenharia de Software (SBES '23)"
+    url: "https://cbsoft2023.ufms.br/sbes"
+  year: 2023
+  doi: "10.1145/3613372.3614190"
+  type: "Artigo de conferência"
+
+- title: "Do we use floss in software engineering education? mapping the profiles and practices of higher education teachers from Brazil"
+  authors: "Fernanda Gomes Silva, Paulo Ezequiel D. Santos, Christina von Flach"
+  published_in:
+    name: "XXXIV Simpósio Brasileiro de Engenharia de Software (SBES '20)"
+    url: "https://sol.sbc.org.br/index.php/sbes/issue/view/804"
+  year: 2020
+  doi: "10.1145/3422392.3422493"
+  type: "Artigo de conferência"
+
+- title: "Teaching uml models with floss projects: A study carried out during the period of social isolation imposed by the covid-19 pandemic"
+  authors: "Fernanda Gomes Silva, Moara Sousa Brito Lessa, Nádia da Luz Lopes, Christina von Flach"
+  published_in:
+    name: "XXXIV Simpósio Brasileiro de Engenharia de Software (SBES '20)"
+    url: "https://sol.sbc.org.br/index.php/sbes/issue/view/804"
+  year: 2020
+  doi: "10.1145/3422392.3422491"
+  type: "Artigo de conferência"
+
+- title: "FLOSS in Software Engineering Education: Supporting the Instructor in the Quest for Providing Real Experience for Students"
+  authors: "Fernanda Gomes Silva, Moara Sousa Brito, Jenifer Vieira Toledo Tavares, Christina von Flach"
+  published_in:
+    name: "XXXIII Simpósio Brasileiro de Engenharia de Software (SBES '19)"
+    url: "https://cbsoft2019.ufba.br/#/sbes"
+  year: 2019
+  doi: "10.1145/3350768.3353815"
+  type: "Artigo de conferência"
+
+- title: "FLOSS in software engineering education: an update of a systematic mapping study"
+  authors: "Moara Sousa Brito, Fernanda Gomes Silva, Christina von Flach G. Chavez, Debora C. Nascimento, Roberto A. Bittencourt"
+  published_in:
+    name: "XXXIII Simpósio Brasileiro de Engenharia de Software (SBES '19)"
+    url: "https://cbsoft2019.ufba.br/#/sbes"
+  year: 2018
+  doi: "10.1145/3266237.3266249"
+  type: "Artigo de conferência"

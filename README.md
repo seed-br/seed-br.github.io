@@ -41,6 +41,7 @@ segundo a estrutura abaixo.
 | `_posts/`            | Pasta com arquivos Markdown com conteúdos de Blog ou Notícias |
 | `_site/`             | Pasta com todo o site gerado pelo Jekyll conteudo resultado de build (é o que está publicado em produção) |
 | `_slides`/           | Pasta com slides HTML escritos em Reveal.js |
+| `_data`/             | Pasta com arquivos YAML que armazenam dados estruturados usados para gerar conteúdo dinâmico no site, como a lista de publicações |
 | `start.sh`           | Shell script para rodar o site localmente |
 
 ## Como atualizar e contribuir com o site
@@ -52,3 +53,21 @@ repositório no GitHub.
 É possível também enviar commits diretamente via git push sem Pull Request caso
 você tenha permissão e não precise de revisão de alguém do grupo antes de
 aplicar as mudanças em produção.
+
+### Como adicionar uma nova publicação
+
+Para adicionar uma publicação no site é necessário preencher o arquivo `publications.yml`
+na pasta `_data/` com os detalhes de cada publicação.
+
+Cada entrada no arquivo representa uma publicação individual e deve incluir as informações da publicação no seguinte formato:
+
+* `title`: o título completo da publicação.
+* `authors`: os nomes dos autores da publicação.
+* `published_in`: um objeto contendo:
+  * `name`: o nome do evento ou revista onde a publicação foi lançada.
+  * `url`: o link para o evento ou revista
+* `year`: o ano em que a publicação foi lançada.
+* `doi`: o DOI (Digital Object Identifier) da publicação.
+* `type`: o tipo de publicação, como livro, capítulo de livro, artigo de conferência, etc.
+
+Para adicionar uma nova publicação, copie o formato da entrada e preencha com as informações da nova publicação. Todos os campos devem ser preenchidos.

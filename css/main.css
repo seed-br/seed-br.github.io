@@ -302,6 +302,22 @@ footer.site-footer div.wrap a,
   margin-top: 70px;
 }
 
+/* Publications styles */
+/* ----------------------------------------------------------*/
+
+.publications .navbar {
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+}
+.publications .navbar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 15px;
+}
+
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
 
