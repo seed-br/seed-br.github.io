@@ -28,7 +28,12 @@
                 <li>
                     <strong>{{ pub.title }}</strong>. <a href="{{ pub.published_in.url }}" target="_blank">{{ pub.published_in.name }}</a> - <small><em>{{ pub.type }}</em></small><br>
                     <em>{{ pub.authors }}</em>.
-                    <small>DOI:</small> <a href="https://doi.org/{{ pub.doi }}" target="_blank">{{ pub.doi }}</a>
+                    {% if pub.doi %}
+                    <small>DOI:</small> <a href="https://doi.org/{{ pub.doi }}" target="_blank">{{ pub.doi }}</a>{% if pub.url %}.{% endif %}
+                    {% endif %}
+                    {% if pub.url %}
+                    <small>Available in: <a href="{{ pub.url }}" target="_blank">{{ pub.url }}</a></small>
+                    {% endif %}
                 </li>
                 {% endfor %}
             </ul>

@@ -78,3 +78,21 @@
   year: 2018
   doi: "10.1145/3266237.3266249"
   type: "Artigo de conferência"
+
+- title: "On the sustainability of academic software: the case of static analysis tools"
+  authors: "Joenio Costa, Christina Chavez, Paulo Meirelles"
+  published_in:
+    name: "32nd Brazilian Symposium on Software Engineering, SBES"
+    url: "http://cbsoft2018.icmc.usp.br/#/sbes#ideasTrackSbes"
+  year: 2018
+  doi: "10.1145/3266237.3266243"
+  type: "Artigo de conferência"
+
+- title: "Analizo: an extensible multi-language source code analysis and visualization toolkit"
+  authors: "Antonio Terceiro, Joenio Costa, João Miranda, Paulo Meirelles, Luiz Romário Rios, Lucianna Almeida, Christina Chavez, Fabio Kon"
+  published_in:
+    name: "Tools Session of the 1st Brazilian Conference on Software"
+    url: "https://web.archive.org/web/20220808184108/https://wiki.dcc.ufba.br/CBSOFT/WebHome"
+  year: 2010
+  url: "https://www.analizo.org/publications/analizo-cbsoft2010-tools.pdf"
+  type: "Artigo de conferência"
