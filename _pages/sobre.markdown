@@ -1,10 +1,8 @@
 ---
-title: "Sobre SEED.BR"
+title: "Sobre o Grupo SEED.BR"
 ---
 
-Grupo de Pesquisa SEED.BR
-
-Universidade Federal da Bahia
+O grupo de pesquisa SEED.BR está vinculado ao Instituto de Computação da Universidade Federal da Bahia.
 
 ## Membros
 

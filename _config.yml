@@ -51,3 +51,4 @@ defaults:
       type: "slides"
     values:
       layout: "revealjs"
+
