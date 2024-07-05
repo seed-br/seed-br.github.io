@@ -3,14 +3,13 @@ title: SBES Education - 2023
 theme: simple
 ---
 
-<!-- -------------------------------- -->
 <section>
 
 ## Teaching and Promoting Engagement with OSS:
 ### Yet Another Experience Report
 
 
-#### (*) Christina von Flach (IC-UFBA)
+#### Christina von Flach (IC-UFBA)
 
 #### Daniela Feitosa (PGCOMP-UFBA)
 
@@ -21,35 +20,23 @@ Campo Grande, 29/9/2023
 <!-- -------------------------------- -->
 <section>
 
-### Teaching and Promoting Engagement with OSS: Yet Another Experience Report
+#### Teaching and Promoting Engagement with OSS: Yet Another Experience Report
 
-- teaching with OSS
-- and promoting engagement with OSS
-- yet another experience report
+1. Teaching with OSS
+2. Promoting engagement with OSS
+3. Yet another experience report
 
-> We report our latest experience with OSS-based
-learning in a SE course entitled Topics in Software Engineering (TSE).
-</section>
-
-<!-- -------------------------------- -->
-<section>
-
-### Teaching with OSS
-
-> The need to reconcile theory and practice, using "real-world" scenarios to stimulate the improvement of technical and soft skills
-is demanding for Software Engineering (SE) and Computer Science Education.
-
-> Previous experience
-
-<small class="cite">
-</small>
+> We report our latest experience with OSS-based learning in a SE course entitled Topics in Software Engineering (TSE).
 </section>
 
 <!-- -------------------------------- -->
 <section>
 ### Open Source Software (OSS)
 
-The availability of source code and the access to its community and development workflows are appealing factors for adopting OSS in SEE.
+The availability of source code and the access to its community and development workflows are appealing factors for adopting OSS 
+in Software Engineering and Computer Science Education.
+
+> OSS-based Learning
 
 <small class="cite">
 2017.
@@ -58,26 +45,26 @@ The availability of source code and the access to its community and development 
 
 <!-- -------------------------------- -->
 <section>
-> We report our latest experience with OSS-based
-learning in a SE course entitled Topics in Software Engineering (TSE).
-</section>
 
-- Previous experience
+### Teaching with OSS (1)
 
-<!-- -------------------------------- -->
-<section>
-### And promoting engagement with OSS
+> The need to reconcile theory and practice, using "real-world" scenarios to stimulate the improvement of technical and soft skills
+is demanding for Software Engineering Education (SEE).
 
-JabRef
-
-<small class="cite">
-Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Software**. [DOI: 10.54900/9akm9y5-5ject5y](https://doi.org/10.54900/9akm9y5-5ject5y), 2023.
-</small>
 </section>
 
 <!-- -------------------------------- -->
 <section>
-### Benefits
+### Promoting engagement with OSS (2)
+
+> Activities and tasks may require some interaction with the OSS community
+> Students may contribute with the OSS in practice
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Example
 
 <img src="{{ site.baseurl }}/files/parte1/analizo-website.png" width="500" style="box-shadow:0px 0px 2px gray;background:white" />
 
@@ -87,8 +74,7 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 <section>
 ### Challenges
 
-- reconcile theory with practice (evolving
-software in social coding platforms) while planning to address
+- reconcile theory with practice (evolving software in social coding platforms) while planning to address
 previously reported barriers of OSS-based learning. 
 
 - Not a mandatory SE course
@@ -97,13 +83,13 @@ previously reported barriers of OSS-based learning.
 
 <!-- -------------------------------- -->
 <section>
-### Yet another experience report
+### Yet another experience report (3)
 
 #### Professor
-1. Experiência prévia (desde 2011)
-2. Disciplina optativa
-3. Preocupação com apoio
-4. Preocupação com  _nucleação_
+1. Previous experience (since 2011)
+2. Not a mandatory SE course
+3. Help needed (technicalities)
+4. Concern with _nucleation_ (graduate course)
 
 </section>
 
@@ -112,10 +98,10 @@ previously reported barriers of OSS-based learning.
 <section>
 ### Yet another experience report
 
-#### Estudante
-1. Preocupação com _engajamento_
-2. Preocupação com  _nucleação_
-3. Preocupação com acompanhamento e feedback
+#### Students
+1. Concern with  _engagement_
+2. Concern with  _nucleation_
+3. Concern with support and feedback
 </section>
 
 <!-- -------------------------------- -->
@@ -128,6 +114,7 @@ previously reported barriers of OSS-based learning.
 - Characterize OSS projects regarding its features, history and context, newcomers' support and social conventions, socio-technical practices and deliverables.
 - Select OSS projects to work with based on their domain and other characteristics.
 - Understand aspects related contributing to OSS projects.
+</section>
 
 <!-- -------------------------------- -->
 <section>
@@ -167,7 +154,7 @@ previously reported barriers of OSS-based learning.
 <!-- -------------------------------- -->
 <section>
 
-### Students' Feedback
+### Evaluation: Students' Feedback
 
 <img src="{{ site.baseurl }}/files/sbes2023/demographics.png" width="1200" style="box-shadow:0px 0px 2px gray;background:white" />
 
@@ -207,7 +194,7 @@ about OSS projects.
 
 <!-- -------------------------------- -->
 <section>
-### Instructors'Reflections
+### Instructors' Reflections
 
 - Course design
 - Git-Paralysis
@@ -228,8 +215,7 @@ about OSS projects.
 
 <!-- -------------------------------- -->
 <section>
-
-### Recommendations from the Trenches
+### Recommendations from the Trenches (1/3)
 
 - Hands-on activities are the core of the course: recruit at least
 one teaching assistant with experience in OSS development.
@@ -238,6 +224,12 @@ nels early and use them effectively.
 - Decide on a control strategy to use early in the course (in-
 ternal or external projects).
 - Plan to be flexible.
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Recommendations from the Trenches (2/3)
+
 - Plan and communicate the syllabus early, leaving room
 for last-minute, on-the-fly modifications.
 - Survey the students’ knowledge and previous experience
@@ -247,6 +239,12 @@ with OSS and adjust the course plan, if necessary.
 to use as internal learning objects.
 - Double-check the OSS project for welcome messages and
 guidelines for newcomers.
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Recommendations from the Trenches (3/3)
+
 - Mentor students in selecting an OSS project to contribute.
 - Share early and share often: share journal entries and stu-
 dents’ progress, and promote frequent discussions.

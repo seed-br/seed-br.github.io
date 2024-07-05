@@ -6,10 +6,11 @@ layout: page
 ## Artigos
 
 * FEES 2024 - Visions Track 
-* CBSOFT 2023
-   * [OpenScienSE 1]({{ site.baseurl }}/openscienSE2023-interview)
-   * [OpenScienSE 2]({{ site.baseurl }}/openscienSE2023-evaluation)
+* CBSOFT 2023 - OpenScienSE 2023
+   * [Understanding Practices and Challenges of Developing Sustainable Research Software: A Pilot Interview]({{ site.baseurl }}/openscienSE2023-interview)
+   * [Understanding Sustainability and FAIRness of Research Software]({{ site.baseurl }}/openscienSE2023-evaluation)
 * SBES 2023 - Education Track (Paper Award)
+   * [Teaching and Promoting Engagement with OSS: Yet Another Experience Report]({{ site.baseurl }}/sbes2023-education)
 * SBES 2020 - Education Track (Paper Award)
 * SBES 2018 - IIER Track
    * [On the Sustainability of Academic Software: The Case of Static Analysis Tools]({{ site.baseurl }}/sustainability-academic-software)
