@@ -7,6 +7,20 @@
   year: 2024
   doi: "10.1145/3663529.3663788"
   type: "Artigo de conferência"
+
+- title: "Qual tipo de feedback ajuda os estudantes novatos em programação? Um estudo exploratório com múltiplos feedbacks em um curso introdutório de Python"
+  published_in:
+    name: "Simpósio Brasileiro de Educação em Computação"
+    url: "https://www.educompbrasil.org/simposio/2024/"
+  authors: "Luis Gustavo J. Araujo, Christina von Flach, Roberto A. Bittencourt"
+  year: 2024
+  doi: "10.5753/educomp.2024"
+  type: "Artigo de conferência"
+
+  ARAUJO, LUIS GUSTAVO J. ; FLACH, CHRISTINA VON ; BITTENCOURT, ROBERTO A. . Qual tipo de feedback ajuda os estudantes novatos em programação? Um estudo exploratório com múltiplos feedbacks em um curso introdutório de Python. In: Simpósio Brasileiro de Educação em Computação, 2024, Brasil. Anais do IV Simpósio Brasileiro de Educação em Computação (EDUCOMP 2024). v. 0. p. 42-10.
+zsh: command not found: ARAUJO,
+zsh: command not found: FLACH,
+zsh: no matches found: programação?
    
 - title: "Princípios e Práticas para Sustentabilidade do Software de Pesquisa"
   authors: "Christina von Flach, Joenio M. Costa, Daniela Feitosa"
