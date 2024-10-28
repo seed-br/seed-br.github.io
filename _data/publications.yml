@@ -17,6 +17,15 @@
   doi: "10.5753/educomp.2024"
   type: "Artigo de conferência"
 
+- title: "Software Architectural Practices: Influences on the Open Source Ecosystem Health"
+  authors: "Simone Amorim, John McGregor, Eduardo Almeida, Christina von Flach"
+  published_in:
+    name: "Journal of Software Engineering Research and Development"
+    url: "https://doi.org/10.5753/jserd.2023 "
+  year: 2023,
+  doi: "10.5753/jserd.2023.967"
+  type: "Artigo de periódico"
+
 - title: "Princípios e Práticas para Sustentabilidade do Software de Pesquisa"
   authors: "Christina von Flach, Joenio M. Costa, Daniela Feitosa"
   published_in:
@@ -33,7 +42,7 @@
     url: "https://journals-sol.sbc.org.br/index.php/jserd/issue/view/277"
   year: 2023
   doi: "10.5753/jserd.2023.1977"
-  type: "Artigo de revista"
+  type: "Artigo de periódico"
 
 - title: "Understanding Practices and Challenges of Developing Sustainable Research Software: A Pilot Interview"
   authors: "Daniela Feitosa, Christina von Flach, Joenio Costa"
