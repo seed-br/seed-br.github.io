@@ -1,6 +1,6 @@
 
 <li class="member">
-  <a href="/members/{{ include.member.nickname }}">
+  <a href="{{ include.member.url }}">
     {% if include.member.photo %}
       <img src="{{ include.member.photo }}" alt="Photo of {{ include.member.name }}">
     {% else %}

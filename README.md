@@ -81,7 +81,7 @@ Cada arquivo representa um membro e deve incluir as informações abaixo:
 * `layout: member`: o layout utilizado para visualização da página de membero. Todos os membros devem utilizar o layout `member`.
 * `title: Researchers`: título da página.
 * `name`: o nome do pesquisador.
-* `nickname`: como o nome do pesquisador será citado nas publicações. Deve ser o mesmo que o nome do arquivo.
+* `nickname`: como o nome do pesquisador será citado nas publicações.
 * `role`: o papel do membro no grupo. Atualmente temos "Research Group Leader", "Master's student" e "Ph.D. student"
 * `photo`: o caminho da foto do pesquisador. A foto deve estar na pasta `/assets/images/members/`.
 * `social_links`: lista de links que serão listados na página. Cada link deve ser listado com `name` e `url`.
