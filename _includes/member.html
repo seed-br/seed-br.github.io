@@ -1,0 +1,11 @@
+
+<li class="member">
+  <a href="/members/{{ include.member.nickname }}">
+    {% if include.member.photo %}
+      <img src="{{ include.member.photo }}" alt="Photo of {{ include.member.name }}">
+    {% else %}
+      <img src="/assets/images/seed.png" alt="Photo of {{ include.member.name }}">
+    {% endif %}
+    <p>{{ include.member.name }}</p>
+  </a>
+</li>

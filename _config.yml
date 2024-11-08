@@ -28,6 +28,9 @@ collections:
   pages:
     output: true
     permalink: ":title/index.html"
+  members:
+    output: true
+    permalink: /members/:path
   slides:
     output: true
     permalink: ":title/index.html"

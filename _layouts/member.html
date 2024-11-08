@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+<body>
+  {% include header.html %}
+  {% include menu.html %}
+  <div class="page-content">
+    <div class="wrap">
+      <div class="profile-container">
+        <div class="profile-left">
+          {% if page.photo %}
+            <img src="{{ page.photo }}" alt="Photo of {{ page.name }}" class="profile-photo">
+          {% endif %}
+          <p><strong>{{ page.role }}</strong></p>
+
+          <ul class="profile-links">
+              {% for link in page.social_links %}
+              <p><a href="{{ link.url }}" target="_blank">{{ link.name }}</a></p>
+              {% endfor %}
+          </ul>
+        </div>
+        <div class="profile-right">
+              <h1>{{ page.name }}</h1>
+              <p>{{ page.bio }}</p>
+              <h2>Research Interests</h2>
+              <ul>
+                {% for interest in page.research_interests %}
+                  <li>{{ interest }}</li>
+                {% endfor %}
+              </ul>
+              <h2>Education</h2>
+              <ul>
+                  {% for edu in page.education %}
+                      <li>{{ edu.degree }}, {{ edu.institution }} ({{ edu.year }})</li>
+                  {% endfor %}
+              </ul>
+        </div>
+
+        <div class="profile-full">
+          {% if page.current_research %}
+            <h2>Current Research</h2>
+            <p>{{ page.current_research }}</p>
+            {% endif %}
+          <div class="profile-publications">
+          <h2>Publications</h2>
+            {% assign grouped = site.data.publications | group_by: "year" %}
+            {% for year in grouped %}
+              {% include publications.html year=year filter=page.nickname %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

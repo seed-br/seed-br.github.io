@@ -3,13 +3,13 @@
   published_in:
     name: "FSE 2024 - Ideas, Visions and Reflections"
     url: "https://2024.esec-fse.org"
-  authors: "Edson OliveiraJr, Fernanda Madeiral, Alcemir R. Santos, Christina von Flach, Sergio Soares"
+  authors: ["Edson OliveiraJr", "Fernanda Madeiral", "Alcemir R. Santos", "chrisflach", "Sergio Soares"]
   year: 2024
   doi: "10.1145/3663529.3663788"
   type: "Artigo de conferência"
 
 - title: "Qual tipo de feedback ajuda os estudantes novatos em programação? Um estudo exploratório com múltiplos feedbacks em um curso introdutório de Python"
-  authors: "Luis Gustavo J. Araujo, Christina von Flach, Roberto A. Bittencourt"
+  authors: ["Luis Gustavo J. Araujo", "chrisflach", "Roberto A. Bittencourt"]
   published_in:
     name: "Simpósio Brasileiro de Educação em Computação"
     url: "https://www.educompbrasil.org/simposio/2024/"
@@ -18,7 +18,7 @@
   type: "Artigo de conferência"
 
 - title: "Software Architectural Practices: Influences on the Open Source Ecosystem Health"
-  authors: "Simone Amorim, John McGregor, Eduardo Almeida, Christina von Flach"
+  authors: ["Simone Amorim", "John McGregor", "Eduardo Almeida", "chrisflach"]
   published_in:
     name: "Journal of Software Engineering Research and Development"
     url: "https://doi.org/10.5753/jserd.2023 "
@@ -27,7 +27,7 @@
   type: "Artigo de periódico"
 
 - title: "Princípios e Práticas para Sustentabilidade do Software de Pesquisa"
-  authors: "Christina von Flach, Joenio M. Costa, Daniela Feitosa"
+  authors: ["chrisflach", "joeniocosta", "danifeitosa"]
   published_in:
     name: "42ª Jornada de Atualização em Informática (JAI)"
     url: "https://csbc.sbc.org.br/2023/jai"
@@ -36,7 +36,7 @@
   type: "Capítulo de livro"
 
 - title: "OSS in Software Engineering Education"
-  authors: "Fernanda Gomes Silva, Paulo Ezequiel D. Santos, Christina von Flach"
+  authors: ["fernandagomes", "Paulo Ezequiel D. Santos", "chrisflach"]
   published_in:
     name: "Journal of Software Engineering Research and Development (JSERD)"
     url: "https://journals-sol.sbc.org.br/index.php/jserd/issue/view/277"
@@ -45,7 +45,7 @@
   type: "Artigo de periódico"
 
 - title: "Understanding Practices and Challenges of Developing Sustainable Research Software: A Pilot Interview"
-  authors: "Daniela Feitosa, Christina von Flach, Joenio Costa"
+  authors: ["danifeitosa", "chrisflach", "joeniocosta"]
   published_in:
     name: "III Workshop de Práticas de Ciência Aberta para Engenharia de Software (OpenScienSE, 2023)"
     url: "https://opensciense-org.github.io/opensciense2023/"
@@ -54,7 +54,7 @@
   type: "Artigo de conferência"
 
 - title: "Understanding Sustainability and FAIRness of Research Software"
-  authors: "Daniela Feitosa, Christina von Flach, Joenio Costa"
+  authors: ["danifeitosa", "chrisflach", "joeniocosta"]
   published_in:
     name: "III Workshop de Práticas de Ciência Aberta para Engenharia de Software (OpenScienSE, 2023)"
     url: "https://opensciense-org.github.io/opensciense2023/"
@@ -63,7 +63,7 @@
   type: "Artigo de conferência"
 
 - title: "Teaching and Promoting Engagement with OSS: Yet Another Experience Report"
-  authors: "Christina von Flach, Daniela Feitosa"
+  authors: ["chrisflach", "danifeitosa"]
   published_in:
     name: "XXXVII Simpósio Brasileiro de Engenharia de Software (SBES '23)"
     url: "https://cbsoft2023.ufms.br/sbes"
@@ -72,7 +72,7 @@
   type: "Artigo de conferência"
 
 - title: "Do we use floss in software engineering education? mapping the profiles and practices of higher education teachers from Brazil"
-  authors: "Fernanda Gomes Silva, Paulo Ezequiel D. Santos, Christina von Flach"
+  authors: ["fernandagomes", "Paulo Ezequiel D. Santos", "chrisflach"]
   published_in:
     name: "XXXIV Simpósio Brasileiro de Engenharia de Software (SBES '20)"
     url: "https://sol.sbc.org.br/index.php/sbes/issue/view/804"
@@ -81,7 +81,7 @@
   type: "Artigo de conferência"
 
 - title: "Teaching uml models with floss projects: A study carried out during the period of social isolation imposed by the covid-19 pandemic"
-  authors: "Fernanda Gomes Silva, Moara Sousa Brito Lessa, Nádia da Luz Lopes, Christina von Flach"
+  authors: ["fernandagomes", "Moara Sousa Brito Lessa", "Nádia da Luz Lopes", "chrisflach"]
   published_in:
     name: "XXXIV Simpósio Brasileiro de Engenharia de Software (SBES '20)"
     url: "https://sol.sbc.org.br/index.php/sbes/issue/view/804"
@@ -90,7 +90,7 @@
   type: "Artigo de conferência"
 
 - title: "FLOSS in Software Engineering Education: Supporting the Instructor in the Quest for Providing Real Experience for Students"
-  authors: "Fernanda Gomes Silva, Moara Sousa Brito, Jenifer Vieira Toledo Tavares, Christina von Flach"
+  authors: ["fernandagomes", "Moara Sousa Brito", "Jenifer Vieira Toledo Tavares", "chrisflach"]
   published_in:
     name: "XXXIII Simpósio Brasileiro de Engenharia de Software (SBES '19)"
     url: "https://cbsoft2019.ufba.br/#/sbes"
@@ -99,7 +99,7 @@
   type: "Artigo de conferência"
 
 - title: "FLOSS in software engineering education: an update of a systematic mapping study"
-  authors: "Moara Sousa Brito, Fernanda Gomes Silva, Christina von Flach G. Chavez, Debora C. Nascimento, Roberto A. Bittencourt"
+  authors: ["Moara Sousa Brito", "fernandagomes", "chrisflach", "Debora C. Nascimento", "Roberto A. Bittencourt"]
   published_in:
     name: "XXXIII Simpósio Brasileiro de Engenharia de Software (SBES '19)"
     url: "https://cbsoft2019.ufba.br/#/sbes"
@@ -108,7 +108,7 @@
   type: "Artigo de conferência"
 
 - title: "On the sustainability of academic software: the case of static analysis tools"
-  authors: "Joenio Costa, Christina Chavez, Paulo Meirelles"
+  authors: ["joeniocosta", "chrisflach", "Paulo Meirelles"]
   published_in:
     name: "32nd Brazilian Symposium on Software Engineering, SBES"
     url: "http://cbsoft2018.icmc.usp.br/#/sbes#ideasTrackSbes"
@@ -117,7 +117,7 @@
   type: "Artigo de conferência"
 
 - title: "Analizo: an extensible multi-language source code analysis and visualization toolkit"
-  authors: "Antonio Terceiro, Joenio Costa, João Miranda, Paulo Meirelles, Luiz Romário Rios, Lucianna Almeida, Christina Chavez, Fabio Kon"
+  authors: ["Antonio Terceiro", "joeniocosta", "João Miranda", "Paulo Meirelles", "Luiz Romário Rios", "Lucianna Almeida", "chrisflach", "Fabio Kon"]
   published_in:
     name: "Tools Session of the 1st Brazilian Conference on Software"
     url: "https://web.archive.org/web/20220808184108/https://wiki.dcc.ufba.br/CBSOFT/WebHome"

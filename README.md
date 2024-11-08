@@ -62,7 +62,7 @@ na pasta `_data/` com os detalhes de cada publicação.
 Cada entrada no arquivo representa uma publicação individual e deve incluir as informações da publicação no seguinte formato:
 
 * `title`: o título completo da publicação.
-* `authors`: os nomes dos autores da publicação.
+* `authors`: os nomes dos autores da publicação em um array.
 * `published_in`: um objeto contendo:
   * `name`: o nome do evento ou revista onde a publicação foi lançada.
   * `url`: o link para o evento ou revista
@@ -71,3 +71,21 @@ Cada entrada no arquivo representa uma publicação individual e deve incluir as
 * `type`: o tipo de publicação, como livro, capítulo de livro, artigo de conferência, etc.
 
 Para adicionar uma nova publicação, copie o formato da entrada e preencha com as informações da nova publicação. Todos os campos devem ser preenchidos.
+
+### Como adicionar um novo membro no grupo
+
+Para adicionar um novo membro no grupo é necessário criar um novo arquivo markdown na pasta `_members` com os detalhes do novo membro.
+
+Cada arquivo representa um membro e deve incluir as informações abaixo:
+
+* `layout: member`: o layout utilizado para visualização da página de membero. Todos os membros devem utilizar o layout `member`.
+* `title: Researchers`: título da página.
+* `name`: o nome do pesquisador.
+* `nickname`: como o nome do pesquisador será citado nas publicações. Deve ser o mesmo que o nome do arquivo.
+* `role`: o papel do membro no grupo. Atualmente temos "Research Group Leader", "Master's student" e "Ph.D. student"
+* `photo`: o caminho da foto do pesquisador. A foto deve estar na pasta `/assets/images/members/`.
+* `social_links`: lista de links que serão listados na página. Cada link deve ser listado com `name` e `url`.
+* `bio`: um texto com informações sobre o membro.
+* `research_interests`: lista dos interesses de pesquisa do membro.
+* `education`: lista com informações sobre a formação acadêmica do membro. Cada formação deve ser listada com `degree`, `institution` e `year`.
+* `current_research`: texto com informações sobre as pesquisas atuais do membro.

@@ -1,0 +1,28 @@
+{% if include.filter == none %}
+  <h2 id="year-{{ include.year.name }}">{{ include.year.name }}</h2>
+{% endif %}
+<ul>
+    {% for pub in include.year.items %}
+        {% if pub.authors contains include.filter or (include.filter == none) %}
+            <li>
+                {% if include.filter != none %}({{ include.year.name }}){% endif %}
+                <strong>{{ pub.title }}</strong>. <a href="{{ pub.published_in.url }}" target="_blank">{{ pub.published_in.name }}</a> - <small><em>{{ pub.type }}</em></small><br>
+                {% for author in pub.authors %}
+                  {% assign linked_member = site.members | where: "nickname", author | first %}
+                  {% if linked_member %}
+                    <em><a href="{{ linked_member.url }}">{{ linked_member.name }}</a></em>.{% if forloop.last == false %}, {% endif %}
+                  {% else %}
+                  <em>{{ author }}</em>.{% if forloop.last == false %}, {% endif %}
+                  {% endif %}
+                {% endfor %}
+
+                {% if pub.doi %}
+                <small>DOI:</small> <a href="https://doi.org/{{ pub.doi }}" target="_blank">{{ pub.doi }}</a>{% if pub.url %}.{% endif %}
+                {% endif %}
+                {% if pub.url %}
+                <small>Available in: <a href="{{ pub.url }}" target="_blank">{{ pub.url }}</a></small>
+                {% endif %}
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
