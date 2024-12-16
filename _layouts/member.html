@@ -14,6 +14,7 @@
           <p><strong>{{ page.role }}</strong></p>
 
           <ul class="profile-links">
+              <p><a href="mailto:{{ page.email }}" target="_blank">Contato</a></p>
               {% for link in page.social_links %}
               <p><a href="{{ link.url }}" target="_blank">{{ link.name }}</a></p>
               {% endfor %}
@@ -41,6 +42,7 @@
             <h2>Current Research</h2>
             <p>{{ page.current_research }}</p>
             {% endif %}
+            {{ content }}
           <div class="profile-publications">
           <h2>Publications</h2>
             {% assign grouped = site.data.publications | group_by: "year" %}

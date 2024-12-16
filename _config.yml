@@ -34,6 +34,9 @@ collections:
   slides:
     output: true
     permalink: ":title/index.html"
+  research:
+    output: true
+    permalink: /research/:path
 
 # Configuracoes padrao para posts
 defaults:

@@ -4,9 +4,8 @@ title: Researchers
 name: "Luis Gustavo Araújo"
 nickname: "luisaraujo"
 role: "Ph.D. student"
+email: "XXXX"
 social_links:
-- name: Email
-  url: "XXXX"
 - name: Website
   url: "XXXX"
 - name: GitHub

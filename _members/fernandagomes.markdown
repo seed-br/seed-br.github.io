@@ -4,9 +4,8 @@ title: Researchers
 name: "Fernanda Gomes"
 nickname: "fernandagomes"
 role: "Ph.D. student"
+email: "XXXX"
 social_links:
-- name: Email
-  url: "XXXX"
 - name: Website
   url: "https://fernandagomes83.github.io/"
 - name: GitHub

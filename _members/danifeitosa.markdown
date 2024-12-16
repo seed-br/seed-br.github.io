@@ -5,9 +5,8 @@ name: "Daniela Feitosa"
 nickname: "danifeitosa"
 role: "Master's student"
 photo: /assets/images/members/daniela-feitosa.jpg
+email: dfeitosa@ufba.br
 social_links:
-- name: Email
-  url: "dsfeitosa@ufba.br"
 - name: Website
   url: "https://danielafeitosa.github.io/"
 - name: GitHub

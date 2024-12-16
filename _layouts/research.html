@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+  {% include header.html %}
+  {% include menu.html %}
+  <div class="page-content">
+    <div class="wrap">
+      <div class="page">
+        <header class="page-header">
+          <h1>{{ page.title }}</h1>
+        </header>
+        <article class="page-inner-content">
+          {% assign members_page = site.members | where: "nickname", page.researcher | first %}
+          {% assign advisor_page = site.members | where: "nickname", page.advisor | first %}
+          {% assign coadvisor_page = site.members | where: "nickname", page.coadvisor | first %}
+
+          <ul>
+            {% if members_page %}
+              <li>{{ page.role }}: <a href="{{ members_page.url }}">{{ members_page.name }}</a></li>
+            {% else %}
+              <li>{{ page.researcher }}</li>
+            {% endif %}
+            {% if page.advisor %}
+              <li>Orientadora:
+                {% if advisor_page %}
+                  <a href="{{ advisor_page.url }}">{{ advisor_page.name }}</a>
+                {% else %}
+                  {{ page.advisor }}
+                {% endif %}
+            {% endif %}
+            {% if page.coadvisor %}
+            <li>Co-Orientador:
+              {% if coadvisor_page %}
+                <a href="{{ coadvisor_page.url }}">{{ coadvisor_page.name }}</a>
+              {% else %}
+                {{ page.coadvisor }}
+              {% endif %}
+          {% endif %}
+          </ul>
+          <hr/>
+          {{ content }}
+        </article>
+      </div>
+    </div>
+  </div>
+  {% include footer.html %}
+  </body>
+</html>

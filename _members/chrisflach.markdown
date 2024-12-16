@@ -5,9 +5,8 @@ name: "Christina von Flach"
 nickname: "chrisflach"
 role: "Research Group Leader"
 photo: /assets/images/members/christina-flach.png
+email: "flach@ufba.br"
 social_links:
-- name: Email
-  url: "flach@ufba.br"
 - name: Website
   url: "https://christinaflach.github.io/"
 - name: Twitter

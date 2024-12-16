@@ -5,9 +5,8 @@ name: "Joenio Costa"
 nickname: "joeniocosta"
 role: "Ph.D. student"
 photo: /assets/images/members/joenio-costa.jpg
+email: "joenio@joenio.me"
 social_links:
-- name: Email
-  url: "joenio@joenio.me"
 - name: Website
   url: "https://joenio.me/about"
 - name: GitHub
