@@ -24,5 +24,9 @@ education:
 - degree: "B.Sc. in Computer Science"
   institution: "Federal University of Bahia, Brazil"
   year: "2007"
-current_research: "Currently I am working with..."
+# current_research: "Currently I am working with..."
 ---
+
+## Current Research
+
+[Caracterização de Sustentabilidade e Abertura do Software para Pesquisa na Universidade](/research/caracterizacao-software-universidade)
