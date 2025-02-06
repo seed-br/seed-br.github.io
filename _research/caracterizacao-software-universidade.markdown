@@ -10,9 +10,11 @@ advisor: chrisflach
 
 Esta pesquisa tem como objetivo caracterizar os grupos de pesquisa de diferentes áreas do conhecimento da Universidade Federal da Bahia (UFBA), com respeito ao uso de práticas de Ciência Aberta e à abertura e sustentabilidade do software para pesquisa desenvolvido por pesquisadores de tais grupos, no contexto de uso crescente de princípios e práticas da Ciência Aberta e valorização do software para pesquisa. Nosso objetivo é também propor recomendações que possam beneficiar a comunidade acadêmica e auxiliar na confiabilidade e reprodutibilidade das pesquisas.
 
+<!--
 ## Público-Alvo
 
 Esta pesquisa é voltada para desenvolvedores, pesquisadores e profissionais que tenham experiência no desenvolvimento de softwares voltados à pesquisa acadêmica ou científica.
+--> 
 
 ## Conceitos relacionados
 
@@ -37,10 +39,10 @@ _Recomendação da UNESCO sobre Ciência Aberta (UNESCO, 2021)_.
 
 ### Abertura do Software para Pesquisa
 
-Adaptação dos princípios FAIR (FAIRness), originalmente definidos para dados abertos, que recomendam que artefatos devem ser fáceis de encontrar, acessíveis, interoperáveis e reutilizáveis (**F**indable, **A**ccessible, **I**nteroperable, **R**eusable ).
+Adaptação dos princípios FAIR, originalmente definidos para dados abertos, que recomendam que artefatos devem ser fáceis de encontrar, acessíveis, interoperáveis e reutilizáveis (**F**indable, **A**ccessible, **I**nteroperable, **R**eusable ).
 _WILKINSON et al., 2016_.
-- Princípios FAIR para software aberto: 17 princípios FAIR para Software de Pesquisa (FAIR4RS). 
-_LAMPRECHT et al., 2020; HONG et al., 2022; BARKER et al., 2022_.
+- Princípios FAIR para software aberto ([FAIR4RS](https://zenodo.org/records/6623556)). 
+_BARKER et al., 2022_.
 
 ### Benefícios e Importância
 
