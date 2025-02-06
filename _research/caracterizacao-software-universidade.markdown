@@ -33,14 +33,13 @@ O software desenvolvido durante o processo de pesquisa e inclui (mas não está 
 ### Sustentabilidade do Software para Pesquisa
 
 O software para pesquisa para ser considerado sustentável deve permanecer disponível e funcional para a comunidade científica durante períodos de tempo significativos, permitindo a reprodutibilidade dos estudos que o utilizaram. 
-_Recomendação da UNESCO sobre Ciência Aberta (UNESCO, 2021)_
+_Recomendação da UNESCO sobre Ciência Aberta (UNESCO, 2021)_.
 
 ### Abertura do Software para Pesquisa
 
-Aderência aos princípios FAIR (FAIRness), tornando-os mais fáceis de encontrar, acessíveis, interoperáveis e reutilizáveis (**F**indable, **A**ccessible, **I**nteroperable, **R**eusable ).
+Adaptação dos princípios FAIR (FAIRness), originalmente definidos para dados abertos, que recomendam que artefatos devem ser fáceis de encontrar, acessíveis, interoperáveis e reutilizáveis (**F**indable, **A**ccessible, **I**nteroperable, **R**eusable ).
 _WILKINSON et al., 2016_.
-
-Reformulação dos princípios FAIR para dados abertos, definindo 17 Princípios FAIR para Software de Pesquisa (FAIR4RS). 
+- Princípios FAIR para software aberto: 17 princípios FAIR para Software de Pesquisa (FAIR4RS). 
 _LAMPRECHT et al., 2020; HONG et al., 2022; BARKER et al., 2022_.
 
 ### Benefícios e Importância
