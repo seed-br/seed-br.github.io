@@ -42,7 +42,8 @@ _Recomendação da UNESCO sobre Ciência Aberta (UNESCO, 2021)_.
 Adaptação dos princípios FAIR, originalmente definidos para dados abertos, que recomendam que artefatos devem ser fáceis de encontrar, acessíveis, interoperáveis e reutilizáveis (**F**indable, **A**ccessible, **I**nteroperable, **R**eusable ).
 _WILKINSON et al., 2016_.
 - Princípios FAIR para software aberto ([FAIR4RS](https://zenodo.org/records/6623556)). 
-_BARKER et al., 2022_.
+_CHUE-HONG, KATZ,_BARKER et al., 2022_.
+
 
 ### Benefícios e Importância
 
