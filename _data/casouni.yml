@@ -1,0 +1,9 @@
+sections:
+- name: Visão Geral
+  url: "/research/caracterizacao-software-universidade"
+- name: Contexto
+  url: "/research/caracterizacao-software-universidade/context"
+- name: Estudo Piloto
+  url: "/research/caracterizacao-software-universidade/pilot-study"
+- name: Publicações
+  url: "/research/caracterizacao-software-universidade/papers"

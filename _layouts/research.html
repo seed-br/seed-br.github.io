@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+
+
 <html>
   {% include head.html %}
   <body>
@@ -6,7 +8,7 @@
   {% include menu.html %}
   <div class="page-content">
     <div class="wrap">
-      <div class="page">
+      <div class="page research">
         <header class="page-header">
           <h1>{{ page.title }}</h1>
         </header>
@@ -17,16 +19,16 @@
 
           <ul>
             {% if members_page %}
-              <li>{{ page.role }}: <a href="{{ members_page.url }}">{{ members_page.name }}</a></li>
+              <li>{{ page.role }}: <a href="{{ members_page.url }}">{{ members_page.name }}</a> ({{ members_page.email }})</li>
             {% else %}
               <li>{{ page.researcher }}</li>
             {% endif %}
             {% if page.advisor %}
               <li>Orientadora:
                 {% if advisor_page %}
-                  <a href="{{ advisor_page.url }}">{{ advisor_page.name }}</a>
+                  <a href="{{ advisor_page.url }}">{{ advisor_page.name }}</a> ({{ advisor_page.email }})
                 {% else %}
-                  {{ page.advisor }}
+                  {{ page.advisor }} ({{ members_page.email }})
                 {% endif %}
             {% endif %}
             {% if page.coadvisor %}
@@ -38,6 +40,14 @@
               {% endif %}
           {% endif %}
           </ul>
+          <hr/>
+          <nav>
+            <ul class='research-menu'>
+              {% for item in site.data[page.project].sections %}
+                <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+              {% endfor %}
+            </ul>
+          </nav>
           <hr/>
           {{ content }}
         </article>

@@ -421,6 +421,34 @@ ul.profile-links {
   border-radius: 5px;
 }
 
+/* Research page styles */
+/* ----------------------------------------------------------*/
+
+nav ul.research-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul.research-menu li {
+  display: inline-block; /* Garante que os itens respeitem espaçamentos */
+  margin: 0 15px; /* Espaçamento horizontal entre os itens */
+}
+
+.page.research ul {
+  padding-left: 40px;
+}
+
+.page.research .citation {
+  border-left: 4px solid #007acc;
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+
+.page.research table th {
+  border: 1px solid #818181;
+  background-color: #f2f2f2;
+}
 
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/

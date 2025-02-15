@@ -3,7 +3,7 @@
 {% endif %}
 <ul>
     {% for pub in include.year.items %}
-        {% if pub.authors contains include.filter or (include.filter == none) %}
+        {% if (pub.authors contains include.filter) or (pub.research == include.filter) or (include.filter == none) %}
             <li>
                 {% if include.filter != none %}({{ include.year.name }}){% endif %}
                 <strong>{{ pub.title }}</strong>. <a href="{{ pub.published_in.url }}" target="_blank">{{ pub.published_in.name }}</a> - <small><em>{{ pub.type }}</em></small><br>

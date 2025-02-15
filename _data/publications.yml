@@ -34,6 +34,7 @@
   year: 2023
   doi: "10.5753/sbc.12853.0.3"
   type: "Capítulo de livro"
+  research: casouni
 
 - title: "OSS in Software Engineering Education"
   authors: ["fernandagomes", "Paulo Ezequiel D. Santos", "chrisflach"]
@@ -52,6 +53,7 @@
   year: 2023
   doi: "10.5753/opensciense.2023.235677"
   type: "Artigo de conferência"
+  research: casouni
 
 - title: "Understanding Sustainability and FAIRness of Research Software"
   authors: ["danifeitosa", "chrisflach", "joeniocosta"]
@@ -61,6 +63,7 @@
   year: 2023
   doi: "10.5753/opensciense.2023.235707"
   type: "Artigo de conferência"
+  research: casouni
 
 - title: "Teaching and Promoting Engagement with OSS: Yet Another Experience Report"
   authors: ["chrisflach", "danifeitosa"]
