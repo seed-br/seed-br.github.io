@@ -9,8 +9,6 @@ email: "flach@ufba.br"
 social_links:
 - name: Website
   url: "https://christinaflach.github.io/"
-- name: Twitter
-  url: "chrisflach"
 - name: GitHub
   url: "christinaflach"
 - name: Google Scholar
