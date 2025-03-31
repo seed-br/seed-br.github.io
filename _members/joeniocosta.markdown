@@ -12,13 +12,18 @@ social_links:
 - name: GitHub
   url: "joenio"
 - name: ORCID
-  url: "https://orcid.org/XXXXX"
-bio: "..."
+  url: "https://orcid.org/0000-0002-5574-1370"
+bio: "Sou doutorando em Ciência da Computação na Universidade na área de Engenheiro de Software pela Universidade Federal da Bahia (UFBA)."
 research_interests:
-  - "..."
+  - Free software
+  - Research software
+  - Software sustainability
 education:
-- degree: "XXXXX"
-  institution: "XXXX"
-  year: "XXXX"
-current_research: "Currently I am working with..."
+- degree: "MSc. in Computer Science"
+  institution: "Federal University of Bahia, Brazil"
+  year: "2017"
 ---
+
+## Current Research
+
+[Teoria sobre Debian como ecossistema sustentável de Software para Pesquisa](/research/ecossistema-debian-research-software)

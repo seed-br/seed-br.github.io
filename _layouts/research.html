@@ -41,6 +41,7 @@
           {% endif %}
           </ul>
           <hr/>
+          {% if page.project %}
           <nav>
             <ul class='research-menu'>
               {% for item in site.data[page.project].sections %}
@@ -49,6 +50,7 @@
             </ul>
           </nav>
           <hr/>
+          {% endif %}
           {{ content }}
         </article>
       </div>
