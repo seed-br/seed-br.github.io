@@ -1,5 +1,5 @@
 ---
-title: "Sobre o Grupo SEED.BR"
+title: "Sobre SEED.BR"
 ---
 
 
