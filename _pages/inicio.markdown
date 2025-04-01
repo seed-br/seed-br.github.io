@@ -14,8 +14,7 @@ Programa de Pós-graduação em Computação ([PGCOMP-UFBA](https://pgcomp.ufba.
 
 O grupo SEED.BR foi criado em 2 de julho de 2021,
 como sucessor do grupo de pesquisa  __aside@ufba__ (_Software Design and Evolution_),
-pioneiro na pesquisa científica e tecnológica em Engenharia de Software e Linguagens de Programação
-na UFBA.
+pioneiro na pesquisa científica em Engenharia de Software na UFBA.
 
 ### Linhas de Pesquisa
 
