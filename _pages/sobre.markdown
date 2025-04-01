@@ -15,6 +15,7 @@ como sucessor do grupo de pesquisa __aside@ufba__ (_Software Design and Evolutio
 certificado no DGP-CNPq por 18 anos (2003-2020)
 e pioneiro na pesquisa científica em Engenharia de Software na UFBA.
 
+---
 
 ## Membros
 
