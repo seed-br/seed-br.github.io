@@ -46,13 +46,11 @@ e pioneiro na pesquisa científica em Engenharia de Software na UFBA.
 {% endfor %}
 </ul>
 
-### Graduação
 
+---
 
-### Colaboradores
- 
+## Egressos
 
-### Egressos
 
 <ul class="members-list">
 {% for member in site.members %}
@@ -62,6 +60,30 @@ e pioneiro na pesquisa científica em Engenharia de Software na UFBA.
 {% endfor %}
 </ul>
 
-+ [Egressos do grupo aside@ufba](http://wiki.dcc.ufba.br/Aside/Pessoas).
+### Doutorado
 
++ Simone Amorim, Doutorado 2022
++ Crescencio Lima, Doutorado 2019
++ Debora Nascimento, Doutorado 2017
++ Bruno Silva, Doutorado 2015
++ Rodrigo Souza, Doutorado 2015
++ Antonio Terceiro, Doutorado 2012
+
+### Mestrado
+
++ Angela Peixoto, Mestrado 2023
++ Erinaldo Santos, Mestrado 2023
++ Moara Britto, Mestrado 2021
++ Joenio Marques, Mestrado 2017
++ Leandro Soriano, Mestrado 2014 (MMCC)
++ Antonio Oliveira, Mestrado 2009 (Unifacs)
+
+### Graduação
+
++ Alberto Lucas, TCC 2025
++ Daniele Valverde, TCC 2025
+
+## Egressos do grupo aSide@ufba
+
+![Alumni](/assets/images/aside-members-3.jpg){:width="100%"}
 
