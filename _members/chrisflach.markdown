@@ -4,7 +4,7 @@ title: Researchers
 name: "Christina von Flach"
 nickname: "chrisflach"
 role: "Research Group Leader"
-photo: /assets/images/members/christina-flach.png
+photo: /assets/images/members/christina-flach.jpg
 email: "flach@ufba.br"
 social_links:
 - name: Website
@@ -21,10 +21,10 @@ research_interests:
   - Socio-technical aspects of open source software ecosystems
   - Software evolution
   - Software architecture
-  - Open Science
   - Research software sustainability
   - Software engineering education
-  - Computing Education
+  - Computing education
+  - Open Science
 
 education:
 - degree: "Ph.D. in Computer Science"
