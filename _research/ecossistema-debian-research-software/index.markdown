@@ -13,6 +13,13 @@ _Este documento é uma versão inicial e ainda em construção do planejamento d
 
 Este estudo investiga o projeto e o sistema Debian como um ecossistema sustentável de software para pesquisa.
 
+O projeto Debian é uma associação de pessoas que têm como causa comum criar o
+sistema Debian, um sistema operacional livre.
+
+Sustentabilidade de software é um requisito não-funcional, composto de
+atributos centrais de qualidade, o que inclui no mínimo: manutenibilidade,
+extensibilidade, usabilidade, longevidade e preservação.
+
 ## Questões
 
 - É possível propor uma teoria sobre o papel do sistema e do projeto _Debian_
