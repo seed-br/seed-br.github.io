@@ -15,7 +15,7 @@ ao Programa de Pós-graduação em Computação ([PGCOMP-UFBA](https://pgcomp.uf
 
 
 O grupo SEED.BR foi criado no dia 2 de julho de 2021,
-como evolução do grupo [aside@ufba](http://wiki.dcc.ufba.br/Aside/),
+como evolução do grupo **aside@ufba**,
 certificado no DGP-CNPq por 18 anos (2003-2020),
 e pioneiro na pesquisa científica e tecnológica em Engenharia de Software e Linguagens de Programação
 na UFBA.
