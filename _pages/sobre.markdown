@@ -16,7 +16,9 @@ certificado no DGP-CNPq por 18 anos (2003-2020)
 e pioneiro na pesquisa científica em Engenharia de Software na UFBA.
 
 
-## Líder
+## Membros
+
+### Líder 
 
 <ul class="members-list">
 {% for member in site.members %}
