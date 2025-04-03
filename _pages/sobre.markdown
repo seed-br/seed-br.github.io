@@ -1,9 +1,9 @@
 ---
-title: "Membros do SEED.BR"
+title: "Membros"
 ---
 
 
-## Líder do grupo 
+## Líder do grupo SEED.BR 
 
 <ul class="members-list">
 {% for member in site.members %}
