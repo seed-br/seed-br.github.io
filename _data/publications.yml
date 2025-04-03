@@ -67,7 +67,7 @@ Instructors' Point of View"
 - title: "Understanding Practices and Challenges of Developing Sustainable Research Software: A Pilot Interview"
   authors: ["danifeitosa", "chrisflach", "joeniocosta"]
   published_in:
-    name: "III Workshop de Práticas de Ciência Aberta para Engenharia de Software (OpenScienSE, 2023)"
+    name: "III Workshop de Práticas de Ciência Aberta para Engenharia de Software (OpenScienSE 2023)"
     url: "https://opensciense-org.github.io/opensciense2023/"
   year: 2023
   doi: "10.5753/opensciense.2023.235677"
@@ -77,7 +77,7 @@ Instructors' Point of View"
 - title: "Understanding Sustainability and FAIRness of Research Software"
   authors: ["danifeitosa", "chrisflach", "joeniocosta"]
   published_in:
-    name: "III Workshop de Práticas de Ciência Aberta para Engenharia de Software (OpenScienSE, 2023)"
+    name: "III Workshop de Práticas de Ciência Aberta para Engenharia de Software (OpenScienSE 2023)"
     url: "https://opensciense-org.github.io/opensciense2023/"
   year: 2023
   doi: "10.5753/opensciense.2023.235707"
@@ -87,7 +87,7 @@ Instructors' Point of View"
 - title: "Teaching and Promoting Engagement with OSS: Yet Another Experience Report"
   authors: ["chrisflach", "danifeitosa"]
   published_in:
-    name: "XXXVII Simpósio Brasileiro de Engenharia de Software (SBES '23)"
+    name: "XXXVII Simpósio Brasileiro de Engenharia de Software (SBES 2023)"
     url: "https://cbsoft2023.ufms.br/sbes"
   year: 2023
   doi: "10.1145/3613372.3614190"
@@ -100,6 +100,7 @@ Instructors' Point of View"
     url: "https://cbie.sbc.org.br/2023/sbie/"
   year: 2023
   doi: "10.5753/sbie.2023.235127"
+  type: "Artigo de conferência"
 
 - title: "Connecting Non-Functional Requirements to Open Source Ecosystems Health"
   authors: ["Simone da S. Amorim", "John D. McGregor", "Eduardo S. de Almeida", "chrisflach"]
@@ -108,13 +109,53 @@ Instructors' Point of View"
     url: ""
   year: 2022
   doi: ""
+  type: "Artigo de conferência"
+
+- title: "Surveying the Audience Effect in Open Peer Review of a Software Engineering Workshop"
+  authors: ["Katia Felizardo", "chrisflach", "Roberto Pereira", "Edson OliveiraJr"]
+  published_in:
+    name: "XXXVI Brazilian Symposium on Software Engineering (SBES 2022) - IIER" 
+    url: ""
+  year: 2022
+  doi: ""
+  type: "Artigo de conferência"
+
+- title: "Uma avaliação comparativa entre métricas de erro em um curso introdutório de programação com Python"
+  authors: ["Luis Gustavo J. Araujo", "Roberto A. Bittencourt", "chrisflach"]
+  published_in:
+    name: "Simpósio Brasileiro de Educação em Computação (EDUCOMP 2022)"
+    url: ""
+  year: 2022
+  doi: ""
+  type: "Artigo de conferência"
 
 - title: "How do Brazilian Software Engineering Researchers Perceive and Practice Open Science?"
   authors: ["Edson OliveiraJr", "chrisflach", "André F.R. Cordeiro", "danifeitosa"] 
   published_in: 
-    name: "Workshop de Práticas de Ciência Aberta para Engenharia de Software"
-    year: 2021
-    doi: ""
+    name: "I Workshop de Práticas de Ciência Aberta para Engenharia de Software (OpenScienSE 2021)"
+    url: ""
+  year: 2021
+  doi: "10.5753/opensciense.2021.17142"
+  type: "Artigo de conferência"
+
+- title: "Uma Definição Operacional para Pensamento Computacional"
+  authors: ["Bianca L. Santana", "chrisflach", "Roberto A. Bittencourt"]
+  published_in:
+    name: "Simpósio Brasileiro de Educação em Computação (EDUCOMP 2021)"
+    url: ""
+  year: 2021
+  doi: "10.5753/educomp.2021.14475"
+  type: "Artigo de conferência"
+
+- title: "Python Enhanced Error Feedback: Uma IDE Online de Apoio ao Processo de Ensino-
+Aprendizagem em Programação"
+  authors: ["Luis Gustavo J. Araujo", "chrisflach", "Roberto A. Bittencourt"]
+  published_in:
+    name: "Simpósio Brasileiro de Educação em Computação (EDUCOMP 2021)"
+    url: ""
+  year: 2021
+  doi: "10.5753/educomp.2021.14500"
+  type: "Artigo de conferência"
 
 - title: "Do we use floss in software engineering education? mapping the profiles and practices of higher education teachers from Brazil"
   authors: ["fernandagomes", "Paulo Ezequiel D. Santos", "chrisflach"]
