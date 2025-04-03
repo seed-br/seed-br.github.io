@@ -109,6 +109,13 @@ Instructors' Point of View"
   year: 2022
   doi: ""
 
+- title: "How do Brazilian Software Engineering Researchers Perceive and Practice Open Science?"
+  authors: ["Edson OliveiraJr", "chrisflach", "André F.R. Cordeiro", "danifeitosa"] 
+  published_in: 
+    name: "Workshop de Práticas de Ciência Aberta para Engenharia de Software"
+    year: 2021
+    doi: ""
+
 - title: "Do we use floss in software engineering education? mapping the profiles and practices of higher education teachers from Brazil"
   authors: ["fernandagomes", "Paulo Ezequiel D. Santos", "chrisflach"]
   published_in:
