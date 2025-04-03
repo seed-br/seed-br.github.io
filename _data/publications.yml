@@ -19,10 +19,10 @@ Instructors' Point of View"
   type: "Artigo de conferência"
 
 - title: "A Vision on Open Science for the Evolution of Software Engineering Research and Practice"
+  authors: ["Edson OliveiraJr", "Fernanda Madeiral", "Alcemir R. Santos", "chrisflach", "Sergio Soares"]
   published_in:
     name: "FSE 2024 - Ideas, Visions and Reflections"
     url: "https://2024.esec-fse.org"
-  authors: ["Edson OliveiraJr", "Fernanda Madeiral", "Alcemir R. Santos", "chrisflach", "Sergio Soares"]
   year: 2024
   doi: "10.1145/3663529.3663788"
   type: "Artigo de conferência"
@@ -30,25 +30,43 @@ Instructors' Point of View"
 - title: "Qual tipo de feedback ajuda os estudantes novatos em programação? Um estudo exploratório com múltiplos feedbacks em um curso introdutório de Python"
   authors: ["Luis Gustavo J. Araujo", "chrisflach", "Roberto A. Bittencourt"]
   published_in:
-    name: "Simpósio Brasileiro de Educação em Computação"
+    name: "Simpósio Brasileiro de Educação em Computação (EduComp 2024)"
     url: "https://www.educompbrasil.org/simposio/2024/"
   year: 2024
   doi: "10.5753/educomp.2024"
   type: "Artigo de conferência"
 
+- title: "Interaction design in  distributed software development: a systematic mapping study"
+  authors: ["Daniel D. Alves", "Ecivaldo S. Matos", "chrisflach"]
+  published_in:
+    name: "Behavior & Information Technology"
+    url: ""
+  year: 2023
+  doi: ""
+  type: "Artigo de periódico"
+
+- title: "OSS in Software Engineering Education"
+  authors: ["fernandagomes", "Paulo Ezequiel D. Santos", "chrisflach"]
+  published_in:
+    name: "Journal of Software Engineering Research and Development (JSERD)"
+    url: "https://journals-sol.sbc.org.br/index.php/jserd/issue/view/277"
+  year: 2023
+  doi: "10.5753/jserd.2023.1977"
+  type: "Artigo de periódico"
+
 - title: "Software Architectural Practices: Influences on the Open Source Ecosystem Health"
   authors: ["Simone Amorim", "John McGregor", "Eduardo Almeida", "chrisflach"]
   published_in:
     name: "Journal of Software Engineering Research and Development"
-    url: "https://doi.org/10.5753/jserd.2023 "
-  year: 2023,
+    url: "https://doi.org/10.5753/jserd.2023"
+  year: 2023
   doi: "10.5753/jserd.2023.967"
   type: "Artigo de periódico"
 
 - title: "Princípios e Práticas para Sustentabilidade do Software de Pesquisa"
   authors: ["chrisflach", "joeniocosta", "danifeitosa"]
   published_in:
-    name: "42ª Jornada de Atualização em Informática (JAI)"
+    name: "42a. Jornada de Atualização em Informática (JAI)"
     url: "https://csbc.sbc.org.br/2023/jai"
   year: 2023
   doi: "10.5753/sbc.12853.0.3"
@@ -160,25 +178,62 @@ Aprendizagem em Programação"
 - title: "Do we use floss in software engineering education? mapping the profiles and practices of higher education teachers from Brazil"
   authors: ["fernandagomes", "Paulo Ezequiel D. Santos", "chrisflach"]
   published_in:
-    name: "XXXIV Simpósio Brasileiro de Engenharia de Software (SBES '20)"
+    name: "XXXIV Simpósio Brasileiro de Engenharia de Software (SBES 2020)"
     url: "https://sol.sbc.org.br/index.php/sbes/issue/view/804"
   year: 2020
   doi: "10.1145/3422392.3422493"
   type: "Artigo de conferência"
 
-- title: "Teaching uml models with floss projects: A study carried out during the period of social isolation imposed by the covid-19 pandemic"
+- title: "Teaching UML models with floss projects: A study carried out during the period of social isolation imposed by the covid-19 pandemic"
   authors: ["fernandagomes", "Moara Sousa Brito Lessa", "Nádia da Luz Lopes", "chrisflach"]
   published_in:
-    name: "XXXIV Simpósio Brasileiro de Engenharia de Software (SBES '20)"
+    name: "XXXIV Simpósio Brasileiro de Engenharia de Software (SBES 2020)"
     url: "https://sol.sbc.org.br/index.php/sbes/issue/view/804"
   year: 2020
   doi: "10.1145/3422392.3422491"
   type: "Artigo de conferência"
 
+- title: "An Approach for Selecting FLOSS Projects for Education"
+  authors: ["Moara Sousa Brito Lessa", "chrisflach"]
+  published_in:
+    name: "XXXIV Simpósio Brasileiro de Engenharia de Software (SBES 2020)"
+    url: ""
+  year: 2020
+  doi: ""
+  type: "Artigo de conferência"
+
+- title: "Recovering Architectural Variability from Source Code"
+  authors: ["Crescencio Lima", "Ivan Machado", "Mathias Galster", "chrisflach"]
+  published_in:
+    name: "XXXIV Simpósio Brasileiro de Engenharia de Software (SBES 2020)"
+    url: ""
+  year: 2020
+  doi: ""
+  type: "Artigo de conferência"
+
+- title: "Uma Proposta de Avaliação de Conceitos, Práticas e Perspectivas de Pensamento Computacional"
+  authors: ["Bianca L. Santana", "chrisflach", "Roberto A. Bittencourt"]
+  published_in:
+    name: "Congresso sobre Tecnologias na Educação (Cntl-E 2020)"
+    url: ""
+  year: 2020
+  doi: ""
+  type: "Artigo de conferência"
+
+- title: "Product line architecture recovery with outlier filtering in software families: the Apo-Games
+case study"
+  authors: ["Crescencio Lima", "Wesley Assunção", "J. Martinez", "Ivan Machado", "chrisflach"]
+  published_in:
+    name: "Journal of the Brazilian Computer Society (JBCS)"
+    url: ""
+  year: 2019
+  doi: ""
+  type: "Artigo de periódico"
+
 - title: "FLOSS in Software Engineering Education: Supporting the Instructor in the Quest for Providing Real Experience for Students"
   authors: ["fernandagomes", "Moara Sousa Brito", "Jenifer Vieira Toledo Tavares", "chrisflach"]
   published_in:
-    name: "XXXIII Simpósio Brasileiro de Engenharia de Software (SBES '19)"
+    name: "XXXIII Simpósio Brasileiro de Engenharia de Software (SBES 2019)"
     url: "https://cbsoft2019.ufba.br/#/sbes"
   year: 2019
   doi: "10.1145/3350768.3353815"
@@ -187,10 +242,19 @@ Aprendizagem em Programação"
 - title: "FLOSS in software engineering education: an update of a systematic mapping study"
   authors: ["Moara Sousa Brito", "fernandagomes", "chrisflach", "Debora C. Nascimento", "Roberto A. Bittencourt"]
   published_in:
-    name: "XXXIII Simpósio Brasileiro de Engenharia de Software (SBES '19)"
+    name: "XXXIII Simpósio Brasileiro de Engenharia de Software (SBES 2019)"
     url: "https://cbsoft2019.ufba.br/#/sbes"
   year: 2018
   doi: "10.1145/3266237.3266249"
+  type: "Artigo de conferência"
+
+- title: "Does FLOSS in Software Engineering Education narrow the Theory-Practice Gap? A Study Grounded on Students' Perception"
+  authors: ["Debora M.N. Coelho", "Roberto A. Bittencourt", "chrisflach"]
+  published_in:
+    name: "International Conference on Open Source Software (OSS 2019)"
+    url: ""
+  year: 2019
+  doi: ""
   type: "Artigo de conferência"
 
 - title: "On the sustainability of academic software: the case of static analysis tools"
@@ -200,6 +264,15 @@ Aprendizagem em Programação"
     url: "http://cbsoft2018.icmc.usp.br/#/sbes#ideasTrackSbes"
   year: 2018
   doi: "10.1145/3266237.3266243"
+  type: "Artigo de conferência"
+
+- title: "FLOSS in software engineering education: an update of a systematic mapping study"
+  authors: ["Moara S. Brito", "fernandagomes", "chrisflach", "Debora C. Nascimento", "Roberto A. Bittencourt"]
+  published_in:
+    name: "XXXII Simpósio Brasileiro de Engenharia de Software (SBES 2018)"
+    url: ""
+  year: 2018
+  doi: "10.1145/3266237.3266249"
   type: "Artigo de conferência"
 
 - title: "Analizo: an extensible multi-language source code analysis and visualization toolkit"
