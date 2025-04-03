@@ -208,7 +208,7 @@ Aprendizagem em Programação"
     name: "XXXIV Simpósio Brasileiro de Engenharia de Software (SBES 2020)"
     url: ""
   year: 2020
-  doi: ""
+  doi: "10.1145/3422392.34223"
   type: "Artigo de conferência"
 
 - title: "Uma Proposta de Avaliação de Conceitos, Práticas e Perspectivas de Pensamento Computacional"
@@ -230,6 +230,15 @@ case study"
   doi: ""
   type: "Artigo de periódico"
 
+- title: "Does FLOSS in Software Engineering Education narrow the Theory-Practice Gap? A Study Grounded on Students' Perception"
+  authors: ["Debora M.N. Coelho", "Roberto A. Bittencourt", "chrisflach"]
+  published_in:
+    name: "International Conference on Open Source Software (OSS 2019)"
+    url: ""
+  year: 2019
+  doi: "10.1007/978-3-030-20883-7_14ff"
+  type: "Artigo de conferência"
+
 - title: "FLOSS in Software Engineering Education: Supporting the Instructor in the Quest for Providing Real Experience for Students"
   authors: ["fernandagomes", "Moara S. Brito", "Jenifer V. T. Tavares", "chrisflach"]
   published_in:
@@ -246,15 +255,6 @@ case study"
     url: "https://cbsoft2019.ufba.br/#/sbes"
   year: 2018
   doi: "10.1145/3266237.3266249"
-  type: "Artigo de conferência"
-
-- title: "Does FLOSS in Software Engineering Education narrow the Theory-Practice Gap? A Study Grounded on Students' Perception"
-  authors: ["Debora M.N. Coelho", "Roberto A. Bittencourt", "chrisflach"]
-  published_in:
-    name: "International Conference on Open Source Software (OSS 2019)"
-    url: ""
-  year: 2019
-  doi: "10.1007/978-3-030-20883-7_14ff"
   type: "Artigo de conferência"
 
 - title: "On the sustainability of academic software: the case of static analysis tools"
