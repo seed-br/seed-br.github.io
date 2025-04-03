@@ -93,6 +93,22 @@ Instructors' Point of View"
   doi: "10.1145/3613372.3614190"
   type: "Artigo de conferência"
 
+- title: "Avaliação da Eficácia do Uso Pedagógico de Projetos OSS"
+  authors: ["Erinaldo S. Oliveira", "chrisflach"]
+  published_in: 
+    name: "Simpósio Brasileiro de Informática na Educação (SBIE 2023)"
+    url: "https://cbie.sbc.org.br/2023/sbie/"
+  year: 2023
+  doi: "10.5753/sbie.2023.235127"
+
+- title: "Connecting Non-Functional Requirements to Open Source Ecosystems Health"
+  authors: ["Simone da S. Amorim", "John D. McGregor", "Eduardo S. de Almeida", "chrisflach"]
+  published_in:
+    name: "16th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2022)"
+    url: ""
+  year: 2022
+  doi: ""
+
 - title: "Do we use floss in software engineering education? mapping the profiles and practices of higher education teachers from Brazil"
   authors: ["fernandagomes", "Paulo Ezequiel D. Santos", "chrisflach"]
   published_in:
