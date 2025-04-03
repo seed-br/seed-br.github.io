@@ -126,7 +126,7 @@ Instructors' Point of View"
     name: "16th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2022)"
     url: ""
   year: 2022
-  doi: ""
+  doi: "10.1145/3559712.355971"
   type: "Artigo de conferência"
 
 - title: "Surveying the Audience Effect in Open Peer Review of a Software Engineering Workshop"
@@ -135,7 +135,7 @@ Instructors' Point of View"
     name: "XXXVI Brazilian Symposium on Software Engineering (SBES 2022) - IIER" 
     url: ""
   year: 2022
-  doi: ""
+  doi: "10.1145/3555228.35552"
   type: "Artigo de conferência"
 
 - title: "Uma avaliação comparativa entre métricas de erro em um curso introdutório de programação com Python"
@@ -144,7 +144,7 @@ Instructors' Point of View"
     name: "Simpósio Brasileiro de Educação em Computação (EDUCOMP 2022)"
     url: ""
   year: 2022
-  doi: ""
+  doi: "10.5753/educomp.2022.19197"
   type: "Artigo de conferência"
 
 - title: "How do Brazilian Software Engineering Researchers Perceive and Practice Open Science?"
@@ -185,7 +185,7 @@ Aprendizagem em Programação"
   type: "Artigo de conferência"
 
 - title: "Teaching UML models with floss projects: A study carried out during the period of social isolation imposed by the covid-19 pandemic"
-  authors: ["fernandagomes", "Moara Sousa Brito Lessa", "Nádia da Luz Lopes", "chrisflach"]
+  authors: ["fernandagomes", "Moara S. Brito Lessa", "Nádia da Luz Lopes", "chrisflach"]
   published_in:
     name: "XXXIV Simpósio Brasileiro de Engenharia de Software (SBES 2020)"
     url: "https://sol.sbc.org.br/index.php/sbes/issue/view/804"
@@ -194,12 +194,12 @@ Aprendizagem em Programação"
   type: "Artigo de conferência"
 
 - title: "An Approach for Selecting FLOSS Projects for Education"
-  authors: ["Moara Sousa Brito Lessa", "chrisflach"]
+  authors: ["Moara S. Brito Lessa", "chrisflach"]
   published_in:
     name: "XXXIV Simpósio Brasileiro de Engenharia de Software (SBES 2020)"
     url: ""
   year: 2020
-  doi: ""
+  doi: "10.1145/3422392.34224"
   type: "Artigo de conferência"
 
 - title: "Recovering Architectural Variability from Source Code"
@@ -231,7 +231,7 @@ case study"
   type: "Artigo de periódico"
 
 - title: "FLOSS in Software Engineering Education: Supporting the Instructor in the Quest for Providing Real Experience for Students"
-  authors: ["fernandagomes", "Moara Sousa Brito", "Jenifer Vieira Toledo Tavares", "chrisflach"]
+  authors: ["fernandagomes", "Moara S. Brito", "Jenifer V. T. Tavares", "chrisflach"]
   published_in:
     name: "XXXIII Simpósio Brasileiro de Engenharia de Software (SBES 2019)"
     url: "https://cbsoft2019.ufba.br/#/sbes"
@@ -240,7 +240,7 @@ case study"
   type: "Artigo de conferência"
 
 - title: "FLOSS in software engineering education: an update of a systematic mapping study"
-  authors: ["Moara Sousa Brito", "fernandagomes", "chrisflach", "Debora C. Nascimento", "Roberto A. Bittencourt"]
+  authors: ["Moara S. Brito", "fernandagomes", "chrisflach", "Debora C. Nascimento", "Roberto A. Bittencourt"]
   published_in:
     name: "XXXIII Simpósio Brasileiro de Engenharia de Software (SBES 2019)"
     url: "https://cbsoft2019.ufba.br/#/sbes"
@@ -254,7 +254,7 @@ case study"
     name: "International Conference on Open Source Software (OSS 2019)"
     url: ""
   year: 2019
-  doi: ""
+  doi: "10.1007/978-3-030-20883-7_14ff"
   type: "Artigo de conferência"
 
 - title: "On the sustainability of academic software: the case of static analysis tools"
