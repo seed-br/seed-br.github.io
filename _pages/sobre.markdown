@@ -1,25 +1,9 @@
 ---
-title: "Sobre SEED.BR"
+title: "Membros do SEED.BR"
 ---
 
 
-__SEED.BR__ (_Software Ecosystems, Evolution and Design_) é um grupo de pesquisa brasileiro
-[certificado](https://dgp.cnpq.br/dgp/espelhogrupo/795424) e 
-vinculado ao Instituto de Computação ([IC](https://computacao.ufba.br/)) 
-da Universidade Federal da Bahia ([UFBA](https://portal.ufba.br)) e seu
-Programa de Pós-graduação em Computação ([PGCOMP-UFBA](https://pgcomp.ufba.br)).
-
-
-O grupo SEED.BR foi criado em 2 de julho de 2021, 
-como sucessor do grupo de pesquisa __aside@ufba__ (_Software Design and Evolution_),
-certificado no DGP-CNPq por 18 anos (2003-2020)
-e pioneiro na pesquisa científica em Engenharia de Software na UFBA.
-
----
-
-## Membros
-
-### Líder 
+## Líder do grupo 
 
 <ul class="members-list">
 {% for member in site.members %}
@@ -28,6 +12,8 @@ e pioneiro na pesquisa científica em Engenharia de Software na UFBA.
   {% endif %}
 {% endfor %}
 </ul>
+
+## Discentes
 
 ### Doutorado
 
@@ -63,7 +49,7 @@ e pioneiro na pesquisa científica em Engenharia de Software na UFBA.
 {% endfor %}
 </ul>
 
-### Doutorado
+### Doutores
 
 + Simone Amorim, Doutorado 2022
 + Crescencio Lima, Doutorado 2019
@@ -72,7 +58,7 @@ e pioneiro na pesquisa científica em Engenharia de Software na UFBA.
 + Rodrigo Souza, Doutorado 2015
 + Antonio Terceiro, Doutorado 2012
 
-### Mestrado
+### Mestres
 
 + Angela Peixoto, Mestrado 2023
 + Erinaldo Santos, Mestrado 2023
@@ -86,7 +72,7 @@ e pioneiro na pesquisa científica em Engenharia de Software na UFBA.
 + Alberto Lucas, TCC 2025
 + Daniele Valverde, TCC 2025
 
-## Egressos do grupo aSide@ufba
+### Outros
 
 ![Alumni](/assets/images/aside-members-3.jpg){:width="100%"}
 

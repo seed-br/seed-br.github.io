@@ -13,8 +13,9 @@ da Universidade Federal da Bahia ([UFBA](https://portal.ufba.br)) e seu
 Programa de Pós-graduação em Computação ([PGCOMP-UFBA](https://pgcomp.ufba.br)).
 
 O grupo SEED.BR foi criado em 2 de julho de 2021,
-como sucessor do grupo de pesquisa  __aside@ufba__ (_Software Design and Evolution_),
-pioneiro na pesquisa científica em Engenharia de Software na UFBA.
+como sucessor do grupo de pesquisa  __aSide@ufba__ (_Software Design and Evolution_),
+pioneiro na pesquisa científica em Engenharia de Software na UFBA e
+certificado no DGP-CNPq por 18 anos (2003-2020).
 
 ### Linhas de Pesquisa
 
@@ -22,5 +23,4 @@ pioneiro na pesquisa científica em Engenharia de Software na UFBA.
 * Educação em Computação
 * Ciência Aberta
 * Linguagens de Programação
-
 
