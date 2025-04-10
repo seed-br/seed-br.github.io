@@ -9,8 +9,6 @@ email: "joenio@joenio.me"
 social_links:
 - name: Website
   url: "https://joenio.me/about"
-- name: GitHub
-  url: "joenio"
 - name: ORCID
   url: "https://orcid.org/0000-0002-5574-1370"
 bio: "Sou doutorando em Ciência da Computação na Universidade na área de Engenheiro de Software pela Universidade Federal da Bahia (UFBA)."
@@ -22,6 +20,9 @@ education:
 - degree: "MSc. in Computer Science"
   institution: "Federal University of Bahia, Brazil"
   year: "2017"
+- degree: "B.Sc. in Computer Science"
+  institution: "Catholic University of Salvador, Brazil"
+  year: "2009"
 ---
 
 ## Current Research
