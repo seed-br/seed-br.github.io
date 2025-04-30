@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="40.277866cm"
+   height="24.793234cm"
+   viewBox="85 86 794.04937 483.46806"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="phd-research-design-diagramme.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     inkscape:zoom="0.61"
+     inkscape:cx="751.63934"
+     inkscape:cy="511.47541"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22" />
+  <g
+     id="Arrière-plan"
+     transform="translate(47.391816,69.836315)" />
+  <g
+     id="g22"
+     transform="translate(47.391816,69.836315)">
+    <g
+       id="g1">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="243.25,155 94.8088,155 119.559,87 268,87 "
+         id="polygon1" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="181.40401"
+         y="126.7"
+         id="text1"><tspan
+           x="181.40401"
+           y="126.7"
+           id="tspan1">Documentos</tspan></text>
+    </g>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="181.40401"
+       y="121"
+       id="text2"><tspan
+         x="181.40401"
+         y="121"
+         id="tspan2" /></text>
+    <g
+       id="g3">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="479.499,155 331.058,155 355.808,87 504.249,87 "
+         id="polygon2" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="417.65399"
+         y="126.7"
+         id="text3"><tspan
+           x="417.65399"
+           y="126.7"
+           id="tspan3">Conceitos</tspan></text>
+    </g>
+    <g
+       id="g4">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="726.749,155 578.308,155 603.058,87 751.499,87 "
+         id="polygon3" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="664.90399"
+         y="126.7"
+         id="text4"><tspan
+           x="664.90399"
+           y="126.7"
+           id="tspan4">Teoria</tspan></text>
+    </g>
+    <g
+       id="g6">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         d="m 114.47,225 h 132.35 l 26.47,50.5 -26.47,50.5 H 114.47 L 88,275.5 Z"
+         id="path4" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="180.645"
+         y="273.89999"
+         id="text6"><tspan
+           x="180.645"
+           y="273.89999"
+           id="tspan5">Estudo 1</tspan><tspan
+           x="180.645"
+           y="289.89999"
+           id="tspan6">Estudo de Campo</tspan></text>
+    </g>
+    <g
+       id="g7">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:4;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="246.25,475 90.231,475 114.981,407 271,407 "
+         id="polygon6" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="180.616"
+         y="446.70001"
+         id="text7"><tspan
+           x="180.616"
+           y="446.70001"
+           id="tspan7">Conceitos</tspan></text>
+    </g>
+    <g
+       id="g8">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:4;stroke-opacity:1"
+         points="259.266,441 301.03,441 301.03,121 333.057,121 "
+         id="polyline7" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="333.057,121 330.557,116 340.557,121 330.557,126 "
+         id="polygon7" />
+    </g>
+    <g
+       id="g9">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="180.645"
+         y1="326"
+         x2="180.627"
+         y2="396.267"
+         id="line8" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="180.627,396.267 185.628,393.768 180.625,403.767 175.628,393.766 "
+         id="polygon8" />
+    </g>
+    <g
+       id="g10">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         d="m 341.144,225 h 153.5 l 30.7,50.5 -30.7,50.5 h -153.5 l -30.7,-50.5 z"
+         id="path9" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="417.89401"
+         y="273.89999"
+         id="text10"><tspan
+           x="417.89401"
+           y="273.89999"
+           id="tspan9">Estudo 2</tspan><tspan
+           x="417.89401"
+           y="289.89999"
+           id="tspan10">Experimento Controlado</tspan></text>
+    </g>
+    <g
+       id="g11">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="417.73401"
+         y1="156.00101"
+         x2="417.871"
+         y2="215.26401"
+         id="line10" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="417.871,215.264 422.866,212.752 417.889,222.764 412.866,212.776 "
+         id="polygon10" />
+    </g>
+    <g
+       id="g12">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:4;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="478.999,475 330.558,475 355.308,407 503.749,407 "
+         id="polygon11" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="417.15399"
+         y="446.70001"
+         id="text11"><tspan
+           x="417.15399"
+           y="446.70001"
+           id="tspan11">Teoria</tspan></text>
+    </g>
+    <g
+       id="g13">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="417.89401"
+         y1="326"
+         x2="417.44199"
+         y2="396.267"
+         id="line12" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="417.442,396.267 422.458,393.799 417.393,403.767 412.458,393.735 "
+         id="polygon12" />
+    </g>
+    <g
+       id="g14">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:4;stroke-opacity:1"
+         points="492.014,441 541.029,441 541.029,121 580.307,121 "
+         id="polyline13" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="580.307,121 577.807,116 587.807,121 577.807,126 "
+         id="polygon13" />
+    </g>
+    <g
+       id="g15">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         d="m 588.394,225 h 153.5 l 30.7,50.5 -30.7,50.5 h -153.5 l -30.7,-50.5 z"
+         id="path14" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="665.14398"
+         y="273.89999"
+         id="text15"><tspan
+           x="665.14398"
+           y="273.89999"
+           id="tspan14">Estudo 3</tspan><tspan
+           x="665.14398"
+           y="289.89999"
+           id="tspan15">Estudo por Amostragem</tspan></text>
+    </g>
+    <g
+       id="g16">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="664.98401"
+         y1="156.00101"
+         x2="665.12097"
+         y2="215.26401"
+         id="line15" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="665.121,215.264 670.116,212.752 665.139,222.764 660.116,212.776 "
+         id="polygon15" />
+    </g>
+    <g
+       id="g17">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:4;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="726.249,475 577.808,475 602.558,407 750.999,407 "
+         id="polygon16" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="664.40399"
+         y="446.70001"
+         id="text16"><tspan
+           x="664.40399"
+           y="446.70001"
+           id="tspan16">Teoria Testada</tspan></text>
+    </g>
+    <g
+       id="g18">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="665.14398"
+         y1="326"
+         x2="664.69202"
+         y2="396.267"
+         id="line17" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="664.692,396.267 669.708,393.799 664.643,403.767 659.708,393.735 "
+         id="polygon17" />
+    </g>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="180.61501"
+       y="441"
+       id="text18"><tspan
+         x="180.61501"
+         y="441"
+         id="tspan18" /></text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="180.61501"
+       y="441"
+       id="text19"><tspan
+         x="180.61501"
+         y="441"
+         id="tspan19" /></text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="148.405"
+       y="32.410599"
+       id="text20"><tspan
+         x="148.405"
+         y="32.410599"
+         id="tspan20" /></text>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="695.84399"
+       y="275.5"
+       id="text21"><tspan
+         x="695.84399"
+         y="275.5"
+         id="tspan21" /></text>
+    <g
+       id="g21">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="181.149"
+         y1="156.00101"
+         x2="180.716"
+         y2="215.26401"
+         id="line21" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="180.716,215.264 185.734,212.801 180.661,222.764 175.734,212.728 "
+         id="polygon21" />
+    </g>
+  </g>
+  <g
+     id="g1583-4"
+     transform="matrix(0.52160716,0,0,0.52160716,-809.61047,784.11659)">
+    <circle
+       style="fill:#3465a4;stroke:none;stroke-width:5.50593"
+       id="path972-1-6-3"
+       cx="1988.3054"
+       cy="-1270.6003"
+       r="25" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:'Clear Sans Medium';-inkscape-font-specification:'Clear Sans Medium, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff"
+       x="1987.8569"
+       y="-1258.7639"
+       id="text1580-5"><tspan
+         sodipodi:role="line"
+         id="tspan1580-6"
+         x="1987.8569"
+         y="-1258.7639">1</tspan></text>
+  </g>
+  <g
+     id="g1585-1"
+     transform="matrix(0.52160716,0,0,0.52160716,-284.72077,1241.1255)">
+    <circle
+       style="fill:#cc0000;stroke:none;stroke-width:6.19507"
+       id="circle978-0-3-4"
+       cx="1437.1434"
+       cy="-2146.509"
+       r="25" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:'Clear Sans Medium';-inkscape-font-specification:'Clear Sans Medium, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff"
+       x="1437.6204"
+       y="-2134.033"
+       id="text1581-0"><tspan
+         sodipodi:role="line"
+         id="tspan1581-3"
+         x="1437.6204"
+         y="-2134.033">2</tspan></text>
+  </g>
+  <g
+     id="g1584-1"
+     transform="matrix(0.52160716,0,0,0.52160716,250.82366,805.61932)">
+    <circle
+       style="fill:#4e9a06;stroke:none;stroke-width:5.19461"
+       id="circle979-40-1-2"
+       cx="883.22687"
+       cy="-1311.4801"
+       r="25" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:'Clear Sans Medium';-inkscape-font-specification:'Clear Sans Medium, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff"
+       x="883.70636"
+       y="-1298.3986"
+       id="text1582-7"><tspan
+         sodipodi:role="line"
+         id="tspan1582-7"
+         x="883.70636"
+         y="-1298.3986">3</tspan></text>
+  </g>
+</svg>
