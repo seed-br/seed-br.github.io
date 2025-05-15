@@ -2,8 +2,7 @@
 title: Material & Métodos
 ---
 
-
-## Práticas de Open Science
+# Práticas de Open Science
 
 - Criar conteudo sobre práticas de Open Science para que as pessoas do grupo possam começar a usar de fato
 - Cada pessoa do grupo seleciona uma prática ou uma ferramenta para apresentar nos Seminários
@@ -19,5 +18,9 @@ title: Material & Métodos
 ## Ferramentas
 
 - OSF [youtu.be/X07mBq2tnMg](https://youtu.be/X07mBq2tnMg)
+
+# Ambientes 
+
+- python, pip, venv
 
 
