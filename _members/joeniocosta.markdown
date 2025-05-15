@@ -27,4 +27,4 @@ education:
 
 ## Current Research
 
-[Teoria sobre Debian como ecossistema sustentável de Software para Pesquisa](/research/ecossistema-debian-research-software)
+[Uma teoria sobre o Debian como um ecossistema sustentável de Software para Ciência](/research/ecossistema-debian-research-software)
