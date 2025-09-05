@@ -5,6 +5,8 @@ layout: page
 
 ## Apresentação de Artigos
 
+* DebConf25 Academic Track
+   * [Debian in the Research Software Ecosystem: An Exploratory Bibliometric Analysis]({{ site.baseurl }}/debconf2025-academictrack-talk)
 * FEES 2024 - Visions Track 
 * CBSOFT 2023 - OpenScienSE 2023
    * [Understanding Practices and Challenges of Developing Sustainable Research Software: A Pilot Interview]({{ site.baseurl }}/openscienSE2023-interview)
