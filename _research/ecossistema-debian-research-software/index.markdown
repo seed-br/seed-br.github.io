@@ -8,6 +8,15 @@ project: ecossistema-debian
 permalink: /research/ecossistema-debian-research-software
 ---
 
+- [Apresentação](#apresentação)
+- [Motivação](#motivação)
+- [Fundamentação](#fundamentação)
+- [Objetivos](#objetivos)
+- [Estratégia](#estratégia-de-pesquisa)
+- [Resultados](#resultados)
+  - [Publicações](#publicações)
+- [Referências](#referências)
+
 ## Apresentação
 
 Este documento descreve o planejamento da pesquisa de doutorado em Engenharia
@@ -325,6 +334,13 @@ resultados esperados desta pesquisa encontra-se uma teoria, ou fragmentos de
 teoria, sobre o Debian como um ecossistema de software sustentável para uso e
 distribuição de software na ciência, seja como Software para Pesquisa, Software
 Científico, ou Infraestrutura de Software para Pesquisa.
+
+### Publicações
+
+{% assign grouped = site.data.publications | group_by: "year" %}
+{% for year in grouped %}
+  {% include publications.html year=year filter="ecossistema-debian" %}
+{% endfor %}
 
 ## Referências
 

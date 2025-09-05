@@ -1,4 +1,14 @@
 
+- title: "Debian in the Research Software Ecosystem: A Bibliometric Analysis"
+  authors: ["joeniocosta", "chrisflach"]
+  published_in:
+    name: "2025 DebConf25 AcademicTrack"
+    url: "https://www.diverse-team.fr/debconf25-academictrack"
+  year: 2025
+  doi: "10.48550/arXiv.2508.18073"
+  type: "Artigo de conferência (pre-print)"
+  research: ecossistema-debian
+
 - title: "Theoretical Evaluation of a Computation Thinking Instrument for Primary School Graduates"
   authors: ["Bianca L. Santana", "chrisflach", "Roberto A. Bittencourt"]
   published_in:
