@@ -18,6 +18,9 @@ research_interests:
   - "Software Architecture"
   - "Software Engineering"
 education:
+- degree: "MSc. in Computer Science"
+  institution: "Federal University of Bahia, Brazil"
+  year: "2026"
 - degree: "B.Sc. in Science and Technology"
   institution: "Federal University of Bahia, Brazil"
   year: "2021"
