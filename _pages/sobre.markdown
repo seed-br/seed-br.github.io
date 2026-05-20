@@ -18,15 +18,6 @@ title: "Membros"
 
 ## Egressos
 
-
-<ul class="members-list">
-{% for member in site.members %}
-  {% if member.role == "Alumni" %}
-    {% include member.html year=year member=member %}
-  {% endif %}
-{% endfor %}
-</ul>
-
 ### Doutores
 
 + Simone Amorim, Doutorado 2022
