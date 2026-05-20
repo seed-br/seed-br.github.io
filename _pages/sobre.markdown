@@ -36,16 +36,4 @@ title: "Membros"
 + Rodrigo Souza, Doutorado 2015
 + Antonio Terceiro, Doutorado 2012
 
-### Mestres
-
-+ Angela Peixoto, Mestrado 2023
-+ Erinaldo Santos, Mestrado 2023
-+ Moara Britto, Mestrado 2021
-+ Joenio Marques, Mestrado 2017
-+ Leandro Soriano, Mestrado 2014 (MMCC)
-+ Antonio Oliveira, Mestrado 2009 (Unifacs)
-
-### Outros
-
-![Alumni](/assets/images/aside-members-3.jpg){:width="100%"}
 
