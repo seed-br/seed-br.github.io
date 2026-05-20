@@ -13,28 +13,6 @@ title: "Membros"
 {% endfor %}
 </ul>
 
-## Discentes
-
-### Doutorado
-
-<ul class="members-list">
-{% for member in site.members %}
-  {% if member.role == "Ph.D. student" %}
-    {% include member.html year=year member=member %}
-  {% endif %}
-{% endfor %}
-</ul>
-
-### Mestrado
-
-<ul class="members-list">
-{% for member in site.members %}
-  {% if member.role == "Master's student" %}
-    {% include member.html year=year member=member %}
-  {% endif %}
-{% endfor %}
-</ul>
-
 
 ---
 
@@ -66,11 +44,6 @@ title: "Membros"
 + Joenio Marques, Mestrado 2017
 + Leandro Soriano, Mestrado 2014 (MMCC)
 + Antonio Oliveira, Mestrado 2009 (Unifacs)
-
-### Graduação
-
-+ Alberto Lucas, TCC 2025
-+ Daniele Valverde, TCC 2025
 
 ### Outros
 
