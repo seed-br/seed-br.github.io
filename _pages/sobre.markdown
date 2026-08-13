@@ -13,6 +13,23 @@ title: "Membros"
 {% endfor %}
 </ul>
 
+## Estudantes
+
+<ul class="members-list">
+{% for member in site.members %}
+  {% if member.role == "Master's student" %}
+    {% include member.html year=year member=member %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+<ul class="members-list">
+{% for member in site.members %}
+  {% if member.role == "Ph.D. student" %}
+    {% include member.html year=year member=member %}
+  {% endif %}
+{% endfor %}
+</ul>
 
 ---
 
